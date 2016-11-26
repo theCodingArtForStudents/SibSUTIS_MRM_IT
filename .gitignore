@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+[Dd]bug*
+[Rr]elease*
+
+Makefile*
