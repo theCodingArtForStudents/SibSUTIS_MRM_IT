@@ -94,7 +94,6 @@ int main()
   cout << endl; // оконечный перенос строки
 
   delete[] arr;
-//  delete summsArray;
   delete[] negPos;
 
   return 0;
