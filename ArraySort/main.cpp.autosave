@@ -18,8 +18,8 @@ int main(int argc, char *argv[])
 
   ///todo
   ///
-  /// max of abs <---------making
-  /// summ of items between negative numbers
+  /// max of abs \\completed
+  /// summ of items between negative numbers <----making
   ///
   /// Sotr the array that zeros has been settled in a tail
 
@@ -30,5 +30,7 @@ int main(int argc, char *argv[])
      max = arr[i];
   }
 
+  cout << "Max abs"
+  
   return 0;
 }
