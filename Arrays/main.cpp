@@ -13,14 +13,15 @@ int main()
     raw = new int[N];
   }
   else{
-    cerr << endl << "!!! Amount of numbers must be biger of 0 !!!" << endl;
+    cerr << endl << "!!! Amount of numbers must be bigger of 0 !!!" << endl;
     return 1;
   }
 
-  int summ = 0,
-      mux = 1,
-      zeroCount = 0;;
-  bool zero = false;
+  int summ = 0, // переменная для суммы
+      mux = 1, // переменная для произведения
+      zeroCount = 0; //переменна для подсчета нулей
+  bool zero = false; // есть ли ноль
+// тип bool хранит в себе заначение либо истина(true) либо лож(false)
 
   for (int i = 0; i < N; ++i) {
     if( i > 0){
@@ -31,7 +32,7 @@ int main()
     }
     cin >> raw[i];
 
-    if( i % 2 == 0 ){
+    if( i % 2 == 0 ){ // если номер элемента делится на 2 без остатка ( % -- остаток от деления)
       mux *= raw[i];
     }
 
@@ -57,18 +58,18 @@ int main()
   }
   cout << endl;
 
-  int swap;
+  int swap; // переменная для замены
   for (int j = 0; j < N; ++j) {
 
-    bool f = false;
-    int min = j;
+    bool f = false; //
+    int min = j; //минимальный номер
 
     for (int i = j; i < N - j; ++i) {
 
-      if( raw[i] > raw[i+1] ){
-        swap = raw[i+1];
-        raw[i + 1] = raw[i];
-        raw[i] = swap;
+      if( raw[i] > raw[i+1] ){ // если элемент с текущим номером больше чем следующий
+        swap = raw[i+1]; // перемещаем значение следующего в переменную для замены
+        raw[i + 1] = raw[i]; // перемещаем значение текущего в следующий
+        raw[i] = swap;// перемещаем из замены в текущий элемент
 
         f = true;
       }
