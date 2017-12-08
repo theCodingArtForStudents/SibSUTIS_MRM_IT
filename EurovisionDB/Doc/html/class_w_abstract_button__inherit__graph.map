@@ -1,0 +1,8 @@
+<map id="WAbstractButton" name="WAbstractButton">
+<area shape="rect" id="node5" href="$class_w_check_box.html" title="WCheckBox Класс виджета переключателя(Checkbox) " alt="" coords="5,1159,120,1265"/>
+<area shape="rect" id="node6" href="$class_w_push_button.html" title="WPushButton Класс самой обычной кнопки " alt="" coords="144,1166,267,1258"/>
+<area shape="rect" id="node7" href="$class_w_radio_button.html" title="WRadioButton Класс виджета переключателя c текстовой надписью " alt="" coords="291,1159,418,1265"/>
+<area shape="rect" id="node2" href="$class_w_widget.html" title="WWidget класс являющийся базовым для всех виджетов системы. " alt="" coords="115,307,296,765"/>
+<area shape="rect" id="node3" href="$class_w_object.html" title="WObject базовый класс для все не GUI компонентов приложения. (Таймер, и т.п.) " alt="" coords="53,5,197,259"/>
+<area shape="rect" id="node4" href="$class_w_paint_device.html" title="Класс WPaintDevice описывает устройство на котором можно рисовать " alt="" coords="222,79,349,185"/>
+</map>

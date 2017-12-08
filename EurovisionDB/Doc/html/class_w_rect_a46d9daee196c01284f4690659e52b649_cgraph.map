@@ -1,0 +1,5 @@
+<map id="WRect::setWidth" name="WRect::setWidth">
+<area shape="rect" id="node2" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="328,5,415,32"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#ab2795ea6deb0b57d2e97d540a8915495" title="WRect::width получить ширину прямоугольника " alt="" coords="176,56,276,83"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="324,56,419,83"/>
+</map>

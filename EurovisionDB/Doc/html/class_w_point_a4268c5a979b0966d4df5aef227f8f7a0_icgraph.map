@@ -1,0 +1,7 @@
+<map id="WPoint::setX" name="WPoint::setX">
+<area shape="rect" id="node2" href="$class_w_point.html#ac2c968eb8321fbab9fe396e10f2cdff0" title="WPoint::operator *= оператор умножения на скаляр " alt="" coords="153,5,287,32"/>
+<area shape="rect" id="node3" href="$class_w_point.html#a91ea09d5bccba8d04fd577c9cf022c9a" title="WPoint::operator += оператор суммы " alt="" coords="152,56,288,83"/>
+<area shape="rect" id="node4" href="$class_w_point.html#a26c8917214981db85008cecf34b99dee" title="WPoint::operator &#45;= оператор разности " alt="" coords="154,107,286,133"/>
+<area shape="rect" id="node5" href="$class_w_point.html#a28cb40d843273c1528fedd6b8ed15e11" title="WPoint::operator /= оператор деления " alt="" coords="154,157,286,184"/>
+<area shape="rect" id="node6" href="$class_w_rect.html#ab166f515ca3a32ddf59683f27837758b" title="WRect::center возвращает точку &#45; центр прямоугольника " alt="" coords="167,208,273,235"/>
+</map>

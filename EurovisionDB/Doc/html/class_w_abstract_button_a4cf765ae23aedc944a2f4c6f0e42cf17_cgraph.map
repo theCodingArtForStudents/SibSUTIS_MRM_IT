@@ -1,0 +1,6 @@
+<map id="WAbstractButton::nextCheckState" name="WAbstractButton::nextCheckState">
+<area shape="rect" id="node2" href="$class_w_abstract_button.html#af647efbec0d30c7d7cbac0c22d18e2e8" title="WAbstractButton::isCheckable переключаются ли состояния кнопки " alt="" coords="245,5,447,32"/>
+<area shape="rect" id="node3" href="$class_w_abstract_button.html#a7b2e9317cf0adb290de879ea8e38d9b2" title="WAbstractButton::setChecked установить состояние(checked) кнопки " alt="" coords="247,56,445,83"/>
+<area shape="rect" id="node5" href="$class_w_abstract_button.html#aceffc9640f05a425ad94a4af11e7f03d" title="WAbstractButton::isChecked находится ли кнопка в &quot;нажатом&quot;(checked) состоянии " alt="" coords="251,107,441,133"/>
+<area shape="rect" id="node4" href="$class_w_widget.html#a03649a1ff2efc8dace58bcb847c34b91" title="&lt; Количество компонентов в системе " alt="" coords="495,56,609,83"/>
+</map>

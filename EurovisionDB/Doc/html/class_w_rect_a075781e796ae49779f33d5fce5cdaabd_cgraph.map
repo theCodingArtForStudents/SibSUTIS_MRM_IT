@@ -1,0 +1,15 @@
+<map id="WRect::moveTo" name="WRect::moveTo">
+<area shape="rect" id="node2" href="$class_w_rect.html#a727bc4fb24fe0e56b47e70a07fe64225" title="WRect::moveTo перемещает левый верхний угол прямоугольника в указанную точку " alt="" coords="168,132,283,159"/>
+<area shape="rect" id="node13" href="$class_w_point.html#a57d334297cf16c0efe35ab1ccb31dfaf" title="WPoint::x получить значение x координаты " alt="" coords="185,183,265,209"/>
+<area shape="rect" id="node14" href="$class_w_point.html#a6841f16c5fb8a9c744ad9b75c885c4cb" title="WPoint::y получить значение y координаты " alt="" coords="185,233,265,260"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#ab2795ea6deb0b57d2e97d540a8915495" title="WRect::width получить ширину прямоугольника " alt="" coords="507,5,607,32"/>
+<area shape="rect" id="node6" href="$class_w_rect.html#a9b67c2f5dd729466914829797e51a213" title="WRect::height получить высоту прямоугольника " alt="" coords="504,208,609,235"/>
+<area shape="rect" id="node9" href="$class_w_rect.html#a507e18711f4d4b4bf99d77ab54a616b4" title="WRect::setLeft установить левую границу прямоугольника " alt="" coords="339,107,448,133"/>
+<area shape="rect" id="node10" href="$class_w_rect.html#a9d7ad76ea850a878c60b423196067b6f" title="WRect::setTop установить верхнюю границу прямоугольника " alt="" coords="339,157,448,184"/>
+<area shape="rect" id="node11" href="$class_w_rect.html#a46d9daee196c01284f4690659e52b649" title="WRect::setWidth установить ширину прямоугольника " alt="" coords="332,56,455,83"/>
+<area shape="rect" id="node12" href="$class_w_rect.html#af4f7b590dcbf6af10b9990ec71a024d6" title="WRect::setHeight установить высоту прямоугольника " alt="" coords="331,259,456,285"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="665,5,760,32"/>
+<area shape="rect" id="node5" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="669,56,756,83"/>
+<area shape="rect" id="node7" href="$class_w_rect.html#a6567c7dfb1971360e2b2e2684c573eed" title="WRect::bottom получить нижнюю границу прямоугольника " alt="" coords="657,208,768,235"/>
+<area shape="rect" id="node8" href="$class_w_rect.html#a02d1f8010dd26f7b5253937fe5b990ef" title="WRect::top получить верхнюю границу прямоугольника " alt="" coords="669,259,757,285"/>
+</map>

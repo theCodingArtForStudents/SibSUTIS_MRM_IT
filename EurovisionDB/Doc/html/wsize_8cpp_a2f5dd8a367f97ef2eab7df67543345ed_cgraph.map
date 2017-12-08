@@ -1,0 +1,6 @@
+<map id="operator+" name="operator+">
+<area shape="rect" id="node2" href="$class_w_size.html#af86546cefad6eda35f20f4699f54a189" title="WSize::setWidth установить новую ширину " alt="" coords="132,5,253,32"/>
+<area shape="rect" id="node3" href="$class_w_size.html#ad064a95168631c3f35935bc1f90449af" title="WSize::width получить текущую ширину " alt="" coords="305,44,404,71"/>
+<area shape="rect" id="node4" href="$class_w_size.html#a333ca7174afd40669eb7bddf01ac77d6" title="WSize::setHeight установить новую высоту " alt="" coords="131,107,255,133"/>
+<area shape="rect" id="node5" href="$class_w_size.html#a3c3ac63e03c38a9b4c044d2e283bd7f2" title="WSize::height получить высоту " alt="" coords="303,120,407,147"/>
+</map>

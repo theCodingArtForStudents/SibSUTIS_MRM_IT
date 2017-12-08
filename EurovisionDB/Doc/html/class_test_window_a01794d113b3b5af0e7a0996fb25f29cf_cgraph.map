@@ -1,0 +1,12 @@
+<map id="TestWindow::paintEvent" name="TestWindow::paintEvent">
+<area shape="rect" id="node2" href="$class_w_painter.html#adb128f089d8361fed12c011d0b5b61e4" title="WPainter::begin начать рисование на установленном устройстве рисования " alt="" coords="227,5,342,32"/>
+<area shape="rect" id="node4" href="$class_w_paint_event.html#aab37a67217e8f07856e9d73b2f47e373" title="WPaintEvent::rect" alt="" coords="221,56,348,83"/>
+<area shape="rect" id="node5" href="$class_w_painter.html#ae773df1cb733f88337e9a680af883af4" title="WPainter::drawLine нарисовать линию на установленном устройстве рисования " alt="" coords="217,107,352,133"/>
+<area shape="rect" id="node6" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="241,157,328,184"/>
+<area shape="rect" id="node7" href="$class_w_rect.html#a02d1f8010dd26f7b5253937fe5b990ef" title="WRect::top получить верхнюю границу прямоугольника " alt="" coords="241,208,329,235"/>
+<area shape="rect" id="node8" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="237,259,332,285"/>
+<area shape="rect" id="node9" href="$class_w_rect.html#a6567c7dfb1971360e2b2e2684c573eed" title="WRect::bottom получить нижнюю границу прямоугольника " alt="" coords="229,309,340,336"/>
+<area shape="rect" id="node10" href="$class_w_painter.html#aa9be169e952620d8609f38953e73507d" title="WPainter::end закончить рисовать на установленном устройстве рисования " alt="" coords="232,360,337,387"/>
+<area shape="rect" id="node11" href="$class_w_event.html#a93fea4265164a17283c0e488523f9ccc" title="WEvent::isAccepted проверить обработано ли событие " alt="" coords="215,411,355,437"/>
+<area shape="rect" id="node3" href="$class_w_painter.html#a28e9abf89a590835a83161f17b9e15a7" title="WPainter::device получить контекст рисования " alt="" coords="403,183,523,209"/>
+</map>

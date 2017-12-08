@@ -1,0 +1,65 @@
+<map id="WWidget::hwnd" name="WWidget::hwnd">
+<area shape="rect" id="node2" href="$class_w_abstract_button.html#a7b2e9317cf0adb290de879ea8e38d9b2" title="WAbstractButton::setChecked установить состояние(checked) кнопки " alt="" coords="168,229,367,256"/>
+<area shape="rect" id="node10" href="$class_w_label.html#a35c39a2b3f26a32a83c33a818a0d40b5" title="WLabel::setImage установить изображение в виджет " alt="" coords="459,1597,585,1624"/>
+<area shape="rect" id="node11" href="$class_w_line_edit.html#addbaddfe2b43bbfc1dacb538a05753e3" title="WLineEdit::setMaxLength Установить максимальную длину строки в поле ввода " alt="" coords="181,1699,353,1725"/>
+<area shape="rect" id="node12" href="$class_w_list_box.html#a4fd2402896dd01e51051fdc7941a4584" title="WListBox::addListItem Добавить элемент в список " alt="" coords="190,381,345,408"/>
+<area shape="rect" id="node15" href="$class_w_message_box.html#a9415f337944ef2fa28d4b773d206c022" title="WMessageBox::critical Выдать критическое сообщение " alt="" coords="189,1749,346,1776"/>
+<area shape="rect" id="node16" href="$class_w_message_box.html#a25457abcf7e1eaa568994085717a74d7" title="WMessageBox::critical Выдать информационное сообщение " alt="" coords="949,464,1132,491"/>
+<area shape="rect" id="node17" href="$class_w_message_box.html#aa405d9cbea23073d9dadfd91bb9708ff" title="WMessageBox::critical Выдать вопросительное сообщение " alt="" coords="183,1800,351,1827"/>
+<area shape="rect" id="node18" href="$class_w_message_box.html#aa90a4d00239ffdcd48b2999a45a3a0d4" title="WMessageBox::critical Выдать предупредительное сообщение " alt="" coords="959,577,1122,604"/>
+<area shape="rect" id="node19" href="$class_w_progress_bar.html#aa130a55961e7c170dbc47a2220634b37" title="WProgressBar::setValue установить новое значение пргресса " alt="" coords="957,755,1124,781"/>
+<area shape="rect" id="node20" href="$class_w_spin_box.html#a4433acf678c4788aff2ef422096018a8" title="WSpinBox::show показать виджет " alt="" coords="979,1195,1102,1221"/>
+<area shape="rect" id="node21" href="$class_w_widget.html#af4eb587441e4ed1a06598bf9550fdabb" title="WWidget::hwnd установить хендл окнна виджета " alt="" coords="210,1851,325,1877"/>
+<area shape="rect" id="node22" href="$class_w_widget.html#a893cc1f98afa1747f6ac553c34c9f1b9" title="WWidget::parentHwnd получить хендл родительского окна " alt="" coords="191,1243,343,1269"/>
+<area shape="rect" id="node34" href="$class_w_widget.html#addb0bd642616d767f64b4d1b43cd9484" title="WWidget::initWndClass инициализировать окно класса. " alt="" coords="441,900,603,927"/>
+<area shape="rect" id="node46" href="$class_w_widget.html#a46cc2cc7447705d3097d9721b53e8d72" title="WWidget::show отобразить виджет " alt="" coords="728,1141,843,1168"/>
+<area shape="rect" id="node49" href="$class_w_widget.html#a456100ac50cd50dc49f19514d4eda18f" title="WWidget::setStyle установить стиль виджета " alt="" coords="201,1547,333,1573"/>
+<area shape="rect" id="node51" href="$class_w_widget.html#a027a4533b27835d463a4bcf25798be0f" title="WWidget::~WWidget Деструктор с удалением компонента из системы " alt="" coords="194,1901,341,1928"/>
+<area shape="rect" id="node52" href="$class_w_widget.html#aaf14215650544d748fdaedd64797324e" title="WWidget::setGeometry установить размеры и положение виджета " alt="" coords="961,95,1120,121"/>
+<area shape="rect" id="node53" href="$class_w_widget.html#a0b5e27fba374193b8ce86e4cbe0e29fb" title="WWidget::setTitle Установить заголовок виджета " alt="" coords="722,1597,849,1624"/>
+<area shape="rect" id="node60" href="$class_w_widget.html#a785a19006c2d258ca1c9c2c91fd33d87" title="WWidget::setEnable" alt="" coords="196,1952,339,1979"/>
+<area shape="rect" id="node63" href="$class_w_widget.html#a2c35f6579743ee526525aae39a417284" title="WWidget::nativeEvent Обработка нативных системных событий и их преобразование в систему событий WWin..." alt="" coords="193,2003,342,2029"/>
+<area shape="rect" id="node64" href="$class_w_widget.html#a7fbeac4ee431bddb1fe31401870134be" title="WWidget::setFocus Установить фокус на виджет " alt="" coords="198,305,337,332"/>
+<area shape="rect" id="node3" href="$class_w_abstract_button.html#a4cf765ae23aedc944a2f4c6f0e42cf17" title="WAbstractButton::nextCheckState переключить состояние кнопки на следующее По умолчанию переключает se..." alt="" coords="426,142,618,183"/>
+<area shape="rect" id="node7" href="$class_w_button_group.html#af6e3b62598ad6dd2d4b34aaa468ce79e" title="WButtonGroup::addButton Добавить кнопку в группу " alt="" coords="953,229,1128,256"/>
+<area shape="rect" id="node4" href="$class_w_abstract_button.html#a0850effd1023d12a55244a42e4a58ff8" title="WAbstractButton::click метод имитирует клик на кнопку, не проверяет нахождение мыши в кликабельной зо..." alt="" coords="707,128,864,155"/>
+<area shape="rect" id="node5" href="$class_w_abstract_button.html#a3041011914ae6ebcb80920c962169774" title="WAbstractButton::toggle Переключить состояние кнопки. Переводит кнопку в следующее состояние..." alt="" coords="703,179,868,205"/>
+<area shape="rect" id="node6" href="$class_w_abstract_button.html#a5a58f796531343c4b836b70beeb64e0d" title="WAbstractButton::mouseReleaseEvent событие отпускания кнопки " alt="" coords="677,62,893,103"/>
+<area shape="rect" id="node8" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="1188,788,1319,815"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a24db1d5062183dbb26abf7552909e283" title="WinMain" alt="" coords="1367,973,1440,1000"/>
+<area shape="rect" id="node13" href="$class_w_list_box.html#a46ccb0a8f470f23d58bb26aa13e8a1e7" title="WListBox::setItemList Устаноовить список элементов " alt="" coords="447,331,597,357"/>
+<area shape="rect" id="node14" href="$class_w_list_box.html#ad2e7c90c83ffb8dc59e22db463673c8b" title="WListBox::WListBox Конструктор с инициализацией базовго класса и списка элементов ..." alt="" coords="713,331,857,357"/>
+<area shape="rect" id="node23" href="$class_w_line_edit.html#a4d3b751d557da35b4fa9a00ca0d51285" title="WLineEdit::clear очистить текст в поле ввода " alt="" coords="463,1243,581,1269"/>
+<area shape="rect" id="node24" href="$class_w_line_edit.html#a8f1af5a949afaaaeb0b0065d5e506031" title="WLineEdit::changeEvent Обработка события изменения содержимого в поле ввода " alt="" coords="440,1445,604,1472"/>
+<area shape="rect" id="node26" href="$class_w_list_box.html#ac6b8a00388b201f598b4be4283634c6c" title="WListBox::changeEvent обработка события изменения выбранного элемента " alt="" coords="441,1040,603,1067"/>
+<area shape="rect" id="node28" href="$class_w_list_view.html#a71d15028d715866ba5f9f6b2d71cff3a" title="WListView::changeEvent Событие смены элемента списка " alt="" coords="439,1091,605,1117"/>
+<area shape="rect" id="node30" href="$class_w_plain_text_edit.html#a536dacb36dc6fd9c1e02b1373e8754b5" title="WPlainTextEdit::changeEvent обработка события изменения " alt="" coords="425,1141,619,1168"/>
+<area shape="rect" id="node32" href="$class_w_spin_box.html#ae0c5cb82ed366ba09247fab7866fe287" title="WSpinBox::changeEvent Обработка события изменения содержимого в поле ввода " alt="" coords="439,1344,605,1371"/>
+<area shape="rect" id="node47" href="$class_w_application.html#a30e6c9531a620eb113b4fbd3e84b496a" title="WApplication::addComponent метод для регистрации нового компонента в приложении необходимо для переда..." alt="" coords="425,1293,619,1320"/>
+<area shape="rect" id="node48" href="$class_w_application.html#adeccf27226d6637f220bf281833f3fe7" title="WApplication::removeComponent метод для удаления компонента из списка компонентов приложения..." alt="" coords="415,1192,629,1219"/>
+<area shape="rect" id="node25" href="$class_w_line_edit.html#ac5c601e534a1017e15739fa4b62782ac" title="WLineEdit::event Обработка событий " alt="" coords="725,1445,845,1472"/>
+<area shape="rect" id="node27" href="$class_w_list_box.html#a11b8d3385ab2068ca5e2d632fb664bc1" title="WWidget::event обработка потока событий " alt="" coords="727,1192,844,1219"/>
+<area shape="rect" id="node29" href="$class_w_list_view.html#ae0ec7d5d0d09d70bfeeecfb43ad929cc" title="WWidget::event обработка потока событий " alt="" coords="724,1243,847,1269"/>
+<area shape="rect" id="node31" href="$class_w_plain_text_edit.html#a4931fb6c66116e6711a28814b918adf8" title="WPlainTextEdit::event Обработка событий " alt="" coords="710,1293,861,1320"/>
+<area shape="rect" id="node33" href="$class_w_spin_box.html#ad549c93319dddf27460287a7792a4fa4" title="WSpinBox::event Обработка событий " alt="" coords="724,1344,847,1371"/>
+<area shape="rect" id="node35" href="$class_w_check_box.html#a842dd923f8bd89e132347daed35ed6d8" title="WCheckBox::WCheckBox Конструктор с инциализацией базового класса WAbstractButton. ..." alt="" coords="697,989,873,1016"/>
+<area shape="rect" id="node36" href="$class_w_label.html#a3382c10a103493f458ae6181a270fccf" title="&lt; Картинка " alt="" coords="726,1040,845,1067"/>
+<area shape="rect" id="node37" href="$class_w_line_edit.html#a29dab55dbea9e3c37e08a20a8cd50a12" title="WLineEdit::WLineEdit Конструктор с инициализацией базового класса " alt="" coords="710,1091,861,1117"/>
+<area shape="rect" id="node38" href="$class_w_list_box.html#ab46e7226c0dc8e282a3b1e2d15672c1b" title="WListBox::WListBox Конструктор с инициализацией базового класса " alt="" coords="713,584,857,611"/>
+<area shape="rect" id="node39" href="$class_w_list_view.html#a0891d39bf677592f2d2f10845470ad16" title="WListView::WListView Конструктор с инициализацией базового класса " alt="" coords="708,635,863,661"/>
+<area shape="rect" id="node40" href="$class_w_plain_text_edit.html#a10dc9ca2fc8b8074a9a66580bcbafdfe" title="WPlainTextEdit::WPlainTextEdit Конструктор с инициализацией " alt="" coords="680,685,891,712"/>
+<area shape="rect" id="node41" href="$class_w_progress_bar.html#addfade3020d84876d61279803882ad36" title="&lt; Функции обратного вызова на событие изменение значения " alt="" coords="685,736,885,763"/>
+<area shape="rect" id="node42" href="$class_w_push_button.html#a7271a0df95b7fb1db24cce26497d664b" title="WPushButton::WPushButton Коснтруктор с инициализацией базового класса и окна кнопки ..." alt="" coords="689,787,881,813"/>
+<area shape="rect" id="node43" href="$class_w_radio_button.html#a4f145568343f119e4a73c8ce3c038866" title="WRadioButton::WRadioButton Конструктор с инциализацией базового класса WAbstractButton. " alt="" coords="686,837,885,864"/>
+<area shape="rect" id="node44" href="$class_w_spin_box.html#ad764850f7841ae95d4a53856b30cf436" title="&lt; Список функций обратного вызова на событие изменения данных " alt="" coords="708,888,863,915"/>
+<area shape="rect" id="node45" href="$class_w_widget.html#a7cfa34a91a21c88993f9a33831fa7151" title="WWidget::WWidget Конструктор с инииализацией базового класса и компонента окна " alt="" coords="716,939,855,965"/>
+<area shape="rect" id="node50" href="$class_w_line_edit.html#a86b265eb295c734a10b91625145ae29a" title="WLineEdit::setEchoMode установить режим вывода " alt="" coords="955,1283,1126,1309"/>
+<area shape="rect" id="node54" href="$class_w_check_box.html#aec1af41f6de91af19ace8a8572d2ecff" title="WCheckBox::WCheckBox Конструктор с инциализацией базового класса WAbstractButton. ..." alt="" coords="953,1369,1129,1396"/>
+<area shape="rect" id="node55" href="$class_w_label.html#af6d6f8a57d5415c67a96c8a3f823aa8a" title="WLabel::WLabel Конструктор с инициализацией " alt="" coords="981,1420,1100,1447"/>
+<area shape="rect" id="node56" href="$class_w_line_edit.html#aa7b3f50e90686264af4c7ee62ff53c8f" title="WLineEdit::setText установить текст в поле ввода " alt="" coords="974,1471,1107,1497"/>
+<area shape="rect" id="node57" href="$class_w_plain_text_edit.html#a26c3388bf747e6fe4feb2f7580e589ca" title="WPlainTextEdit::setPlainText Установить текст в поле ввода " alt="" coords="945,1623,1137,1649"/>
+<area shape="rect" id="node58" href="$class_w_radio_button.html#a5705922a0c949ad32b5b726c72616289" title="WRadioButton::WRadioButton Конструктор с инциализацией базового класса WAbstractButton. " alt="" coords="941,1521,1140,1548"/>
+<area shape="rect" id="node59" href="$class_w_spin_box.html#ad49bb5c1d486a3da8de8cc40c32e5919" title="WSpinBox::setValue установить текущее значение " alt="" coords="969,1673,1112,1700"/>
+<area shape="rect" id="node61" href="$class_w_widget.html#adf16c1a536e8c1702c06d2c205b51ab3" title="WWidget::disable" alt="" coords="459,1927,585,1953"/>
+<area shape="rect" id="node62" href="$class_w_widget.html#aa5178f5d0928c4818942ae9ac3e6fa50" title="WWidget::enable" alt="" coords="461,1977,583,2004"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="WEvent::accept" name="WEvent::accept">
+<area shape="rect" id="node2" href="$class_w_line_edit.html#a8f1af5a949afaaaeb0b0065d5e506031" title="WLineEdit::changeEvent Обработка события изменения содержимого в поле ввода " alt="" coords="186,5,350,32"/>
+<area shape="rect" id="node4" href="$class_w_list_box.html#ac6b8a00388b201f598b4be4283634c6c" title="WListBox::changeEvent обработка события изменения выбранного элемента " alt="" coords="187,56,349,83"/>
+<area shape="rect" id="node6" href="$class_w_list_box.html#a20256315ad0a1ceb2c43c5cf148b4769" title="WListBox::mouseDoubleClickEvent обработка события клика на элемент " alt="" coords="171,107,365,149"/>
+<area shape="rect" id="node7" href="$class_w_list_view.html#a8975d07ff9f3932e8daf976ecae542a9" title="WListView::mouseDoubleClickEvent Событие двойного клика на элементе списка " alt="" coords="168,173,368,214"/>
+<area shape="rect" id="node9" href="$class_w_list_view.html#a71d15028d715866ba5f9f6b2d71cff3a" title="WListView::changeEvent Событие смены элемента списка " alt="" coords="185,239,351,265"/>
+<area shape="rect" id="node10" href="$class_w_plain_text_edit.html#a536dacb36dc6fd9c1e02b1373e8754b5" title="WPlainTextEdit::changeEvent обработка события изменения " alt="" coords="171,289,365,316"/>
+<area shape="rect" id="node3" href="$class_w_line_edit.html#ac5c601e534a1017e15739fa4b62782ac" title="WLineEdit::event Обработка событий " alt="" coords="431,5,551,32"/>
+<area shape="rect" id="node5" href="$class_w_list_box.html#a11b8d3385ab2068ca5e2d632fb664bc1" title="WWidget::event обработка потока событий " alt="" coords="433,56,550,83"/>
+<area shape="rect" id="node8" href="$class_w_list_view.html#ae0ec7d5d0d09d70bfeeecfb43ad929cc" title="WWidget::event обработка потока событий " alt="" coords="430,209,553,236"/>
+<area shape="rect" id="node11" href="$class_w_plain_text_edit.html#a4931fb6c66116e6711a28814b918adf8" title="WPlainTextEdit::event Обработка событий " alt="" coords="416,289,567,316"/>
+</map>

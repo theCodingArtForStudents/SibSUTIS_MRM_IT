@@ -1,0 +1,7 @@
+<map id="WLabel::setImage" name="WLabel::setImage">
+<area shape="rect" id="node2" href="$class_w_image.html#a30ddc9fe756120466c0ea7a7552ca1c1" title="WImage::isNull Есть ли картинка " alt="" coords="191,5,301,32"/>
+<area shape="rect" id="node3" href="$class_w_widget.html#a456100ac50cd50dc49f19514d4eda18f" title="WWidget::setStyle установить стиль виджета " alt="" coords="180,56,312,83"/>
+<area shape="rect" id="node4" href="$class_w_widget.html#a03649a1ff2efc8dace58bcb847c34b91" title="&lt; Количество компонентов в системе " alt="" coords="360,81,475,108"/>
+<area shape="rect" id="node5" href="$class_w_label.html#abdfc73071b923da67e578d4a33311ba7" title="WLabel::style переопределение стиля виджета " alt="" coords="195,157,297,184"/>
+<area shape="rect" id="node6" href="$class_w_image.html#aee7257a437fbf902d9993d580dd298d9" title="WImage::handle доступ к handle на картинку " alt="" coords="188,208,304,235"/>
+</map>

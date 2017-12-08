@@ -1,0 +1,9 @@
+<map id="WAbstractButton::setChecked" name="WAbstractButton::setChecked">
+<area shape="rect" id="node2" href="$class_w_abstract_button.html#a4cf765ae23aedc944a2f4c6f0e42cf17" title="WAbstractButton::nextCheckState переключить состояние кнопки на следующее По умолчанию переключает se..." alt="" coords="252,63,444,105"/>
+<area shape="rect" id="node6" href="$class_w_button_group.html#af6e3b62598ad6dd2d4b34aaa468ce79e" title="WButtonGroup::addButton Добавить кнопку в группу " alt="" coords="261,159,435,185"/>
+<area shape="rect" id="node3" href="$class_w_abstract_button.html#a0850effd1023d12a55244a42e4a58ff8" title="WAbstractButton::click метод имитирует клик на кнопку, не проверяет нахождение мыши в кликабельной зо..." alt="" coords="521,5,679,32"/>
+<area shape="rect" id="node4" href="$class_w_abstract_button.html#a3041011914ae6ebcb80920c962169774" title="WAbstractButton::toggle Переключить состояние кнопки. Переводит кнопку в следующее состояние..." alt="" coords="517,56,683,83"/>
+<area shape="rect" id="node5" href="$class_w_abstract_button.html#a5a58f796531343c4b836b70beeb64e0d" title="WAbstractButton::mouseReleaseEvent событие отпускания кнопки " alt="" coords="492,107,708,149"/>
+<area shape="rect" id="node7" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="535,173,665,200"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a24db1d5062183dbb26abf7552909e283" title="WinMain" alt="" coords="756,173,829,200"/>
+</map>

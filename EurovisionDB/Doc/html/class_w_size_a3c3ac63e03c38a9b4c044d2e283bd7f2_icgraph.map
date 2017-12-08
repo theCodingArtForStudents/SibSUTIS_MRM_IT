@@ -1,0 +1,23 @@
+<map id="WSize::height" name="WSize::height">
+<area shape="rect" id="node2" href="$class_w_rect.html#a6fa05a0ab95304a51924714549c239cb" title="WRect::setSize установить размер прямоугольника " alt="" coords="169,5,284,32"/>
+<area shape="rect" id="node3" href="$class_w_size.html#a333ca7174afd40669eb7bddf01ac77d6" title="WSize::setHeight установить новую высоту " alt="" coords="165,309,289,336"/>
+<area shape="rect" id="node4" href="$class_w_size.html#ae972f66a5ee95e9e3b851a25a1301fcc" title="WSize::scale Масштабирует размеры прямоугольник до заданной ширины и высоты, в соответствии с заданны..." alt="" coords="360,57,460,84"/>
+<area shape="rect" id="node5" href="$class_w_size.html#a1d8e945010d3bd4114fa15fcf6e3eb81" title="WSize::transpose меняет местами ширину и высоту " alt="" coords="347,109,473,136"/>
+<area shape="rect" id="node6" href="$class_w_size.html#ac1660a59a67654184f34f7c51fcb9f65" title="WSize::operator *= умножает ширину и высоту на factor и возвращает ссылку на размер ..." alt="" coords="345,161,475,188"/>
+<area shape="rect" id="node7" href="$class_w_size.html#accd498136e5c69a57bc13e69fd168bac" title="WSize::operator += прибавляет к текущему размеру переданный и возвращает ссылку на размер ..." alt="" coords="344,215,476,241"/>
+<area shape="rect" id="node8" href="$class_w_size.html#a30dcd5bf78adb44fa2a80cb63a76146e" title="WSize::operator &#45;= вычитает из текущего размера переданный и возвращает ссылку на размер ..." alt="" coords="346,272,474,299"/>
+<area shape="rect" id="node9" href="$class_w_size.html#a706925627ac3dadf674e3745673b0ffe" title="WSize::operator /= делит ширину и высоту на переданный делитель и возвращет ссылку на размер ..." alt="" coords="346,335,474,361"/>
+<area shape="rect" id="node10" href="$wsize_8cpp.html#a9a782adeca5fa773828e64fa095355e1" title="operator * умножает ширину и высоту s2 на factor и возвращает WSize " alt="" coords="373,411,447,437"/>
+<area shape="rect" id="node11" href="$wsize_8cpp.html#a74308fb01b7bf8dd8d16794548aaf392" title="operator / делит ширину и высоту s1 на divisor и возвращает WSize " alt="" coords="373,461,447,488"/>
+<area shape="rect" id="node12" href="$wsize_8cpp.html#a58ff3238e442e655615937798c9b9e90" title="operator &#45; отнимает от ширины и высоты s1 ширину и высоту s2 и возвращает WSize " alt="" coords="373,512,447,539"/>
+<area shape="rect" id="node13" href="$wsize_8cpp.html#a2f5dd8a367f97ef2eab7df67543345ed" title="operator + прибавляет к ширине и высоте s1 ширину и высоту s2 и возвращает WSize " alt="" coords="371,563,449,589"/>
+<area shape="rect" id="node14" href="$class_w_size.html#ae81bce2081724684e81c5e8dd33cbd73" title="WSize::transposed возвращает размер с поменяными местами шириной и высотой " alt="" coords="160,613,293,640"/>
+<area shape="rect" id="node15" href="$class_w_size.html#ac0bd2442712e20a7de8cc0d111faf0f7" title="WSize::boundedTo Возвращает Размер, ширина и высота которого равна минимальной ширине и высоте из тек..." alt="" coords="161,664,293,691"/>
+<area shape="rect" id="node16" href="$class_w_size.html#af1acf15fc27c744e3d1989f728fe82c7" title="WSize::expandedTo Возвращает Размер, ширина и высота которого равна максимальной ширине и высоте из т..." alt="" coords="157,715,296,741"/>
+<area shape="rect" id="node17" href="$class_w_size.html#ab19daee85c5eac990bcaefb75321afc1" title="WSize::isEmpty возвращает True в случае если высота и ширина больше или равны нулю Во всех остальных ..." alt="" coords="168,765,285,792"/>
+<area shape="rect" id="node18" href="$class_w_size.html#a0eb1395610ebe06337133417b72a1add" title="WSize::isNull возвращает True в случае если высота и ширина равны нулю. Во всех остальных случаях воз..." alt="" coords="176,816,277,843"/>
+<area shape="rect" id="node19" href="$class_w_size.html#ae570598886cf0230529e0167bc5987d1" title="WSize::isValid возвращает True в случае если высота и ширина больше или равны нулю. Во всех остальных случаях возвращает False. " alt="" coords="173,867,281,893"/>
+<area shape="rect" id="node20" href="$wsize_8cpp.html#aaec22da002930f3ff320f3b6b1dd4463" title="operator != оператор сравнения на неравенство, возвращает True если ширина или высота обоих размеров ..." alt="" coords="187,917,267,944"/>
+<area shape="rect" id="node21" href="$wsize_8cpp.html#a7c390cc477786f4a89a06199baf33de2" title="operator == оператор сравнения равенства размеров возвращщает True если и ширина и высота обоих разме..." alt="" coords="184,968,269,995"/>
+<area shape="rect" id="node22" href="$class_w_size.html#a351e8337ac3b0b58228b99f79d17cf0d" title="WSize::WSize конструктор с указанием ширины и высоты. " alt="" coords="173,1019,281,1045"/>
+</map>

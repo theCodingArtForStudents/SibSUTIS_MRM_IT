@@ -1,0 +1,13 @@
+<map id="WRect::height" name="WRect::height">
+<area shape="rect" id="node2" href="$class_w_rect.html#af4f7b590dcbf6af10b9990ec71a024d6" title="WRect::setHeight установить высоту прямоугольника " alt="" coords="165,107,291,133"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#a8789e31060578c53426885b837b2dca2" title="WRect::WRect создать прямоугольник на основе уже существующего " alt="" coords="530,157,641,184"/>
+<area shape="rect" id="node6" href="$class_w_rect.html#a727bc4fb24fe0e56b47e70a07fe64225" title="WRect::moveTo перемещает левый верхний угол прямоугольника в указанную точку " alt="" coords="355,5,470,32"/>
+<area shape="rect" id="node8" href="$class_w_rect.html#a508519cbc750d0c116c3ba7e78583393" title="WRect::transposed меняет местами ширину и высоту прямоугольника " alt="" coords="345,157,480,184"/>
+<area shape="rect" id="node9" href="$class_w_rect.html#a5c7c6c630c15e3e0ee5fd8c8cb462894" title="WRect::getRect получить позицию и размер прямоугольника " alt="" coords="171,259,285,285"/>
+<area shape="rect" id="node10" href="$class_w_rect.html#ab166f515ca3a32ddf59683f27837758b" title="WRect::center возвращает точку &#45; центр прямоугольника " alt="" coords="175,309,281,336"/>
+<area shape="rect" id="node11" href="$class_w_rect.html#a0220fa7d61ef0736c7278c6a7926b9bd" title="WRect::moveCenter перемещает центр прямоугольника в указанную точку " alt="" coords="159,360,297,387"/>
+<area shape="rect" id="node12" href="$class_w_rect.html#ad8c2be917c55b9efa01c92ac555adf0b" title="WRect::normalized возвращает прямоугольник с не отрицательными width() и height() если width() меньше..." alt="" coords="161,411,295,437"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#a0f92c207755a255cee715294177449ab" title="WRect::setRect установить новые значения позиции и размера для прямоугольника " alt="" coords="355,107,470,133"/>
+<area shape="rect" id="node5" href="$class_w_rect.html#a6fa05a0ab95304a51924714549c239cb" title="WRect::setSize установить размер прямоугольника " alt="" coords="355,56,470,83"/>
+<area shape="rect" id="node7" href="$class_w_rect.html#a075781e796ae49779f33d5fce5cdaabd" title="WRect::moveTo перемещает прямоугольник в указанную позицию " alt="" coords="528,5,643,32"/>
+</map>

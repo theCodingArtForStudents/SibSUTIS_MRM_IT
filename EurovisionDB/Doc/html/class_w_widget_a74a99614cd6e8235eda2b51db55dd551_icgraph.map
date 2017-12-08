@@ -1,0 +1,9 @@
+<map id="WWidget::resizeEvent" name="WWidget::resizeEvent">
+<area shape="rect" id="node2" href="$class_w_widget.html#ac0c7fc3787c2d749152c2f020ed10e08" title="WWidget::event обработка потока событий " alt="" coords="204,132,319,159"/>
+<area shape="rect" id="node3" href="$class_w_line_edit.html#ac5c601e534a1017e15739fa4b62782ac" title="WLineEdit::event Обработка событий " alt="" coords="382,5,502,32"/>
+<area shape="rect" id="node4" href="$class_w_list_box.html#a11b8d3385ab2068ca5e2d632fb664bc1" title="WWidget::event обработка потока событий " alt="" coords="383,56,501,83"/>
+<area shape="rect" id="node5" href="$class_w_list_view.html#ae0ec7d5d0d09d70bfeeecfb43ad929cc" title="WWidget::event обработка потока событий " alt="" coords="381,107,503,133"/>
+<area shape="rect" id="node6" href="$class_w_plain_text_edit.html#a4931fb6c66116e6711a28814b918adf8" title="WPlainTextEdit::event Обработка событий " alt="" coords="367,157,517,184"/>
+<area shape="rect" id="node7" href="$class_w_spin_box.html#ad549c93319dddf27460287a7792a4fa4" title="WSpinBox::event Обработка событий " alt="" coords="381,208,503,235"/>
+<area shape="rect" id="node8" href="$class_w_widget.html#a2c35f6579743ee526525aae39a417284" title="WWidget::nativeEvent Обработка нативных системных событий и их преобразование в систему событий WWin..." alt="" coords="367,259,517,285"/>
+</map>

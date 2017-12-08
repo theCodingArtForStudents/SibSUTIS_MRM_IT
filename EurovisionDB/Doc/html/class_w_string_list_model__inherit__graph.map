@@ -1,0 +1,4 @@
+<map id="WStringListModel" name="WStringListModel">
+<area shape="rect" id="node2" href="$class_w_abstract_item_model.html" title="WAbstractItemModel Базовый класс для всех моделей описывающий основные методы работы с моделью и явля..." alt="" coords="5,307,189,501"/>
+<area shape="rect" id="node3" href="$class_w_object.html" title="WObject базовый класс для все не GUI компонентов приложения. (Таймер, и т.п.) " alt="" coords="25,5,169,259"/>
+</map>

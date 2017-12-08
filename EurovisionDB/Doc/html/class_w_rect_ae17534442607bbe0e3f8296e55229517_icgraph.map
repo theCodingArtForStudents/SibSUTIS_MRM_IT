@@ -1,0 +1,12 @@
+<map id="WRect::setRight" name="WRect::setRight">
+<area shape="rect" id="node2" href="$class_w_rect.html#a2d829d8a428eb42b73705aed928a979b" title="WRect::setTopRight установить верхнюю правую точку прямоугольника " alt="" coords="183,5,321,32"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#a4c5e3fd7a18451f28ff2bb08376da465" title="WRect::setBottomRight установить нижнюю правую точку прямоугольника " alt="" coords="172,56,332,83"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#a0220fa7d61ef0736c7278c6a7926b9bd" title="WRect::moveCenter перемещает центр прямоугольника в указанную точку " alt="" coords="183,107,321,133"/>
+<area shape="rect" id="node5" href="$class_w_rect.html#a3e73f60124b855041edaa985c3186a83" title="WRect::moveLeft сдвигает прямоугольник влево, на указанное смещение " alt="" coords="191,157,313,184"/>
+<area shape="rect" id="node6" href="$class_w_rect.html#afe6911ef52b6183fe72951b6175d4eac" title="WRect::moveRight сдвигает прямоугольник вправо, на указанное смещение " alt="" coords="187,208,317,235"/>
+<area shape="rect" id="node7" href="$class_w_rect.html#a7289772466a365e5fda060853634161f" title="WRect::translate сдвигает прямоугольник на указанное смещение " alt="" coords="192,259,312,285"/>
+<area shape="rect" id="node8" href="$class_w_rect.html#a6a3e1a332d049447e2d15226d108a0b4" title="WRect::translated смещает прямоугольник на указанное смещение " alt="" coords="189,309,315,336"/>
+<area shape="rect" id="node10" href="$class_w_rect.html#ad8c2be917c55b9efa01c92ac555adf0b" title="WRect::normalized возвращает прямоугольник с не отрицательными width() и height() если width() меньше..." alt="" coords="185,360,319,387"/>
+<area shape="rect" id="node11" href="$class_w_rect.html#a554559515fc88daf8b9b0a2e81f71400" title="WRect::united возвращяет прямоугольник охватывающий оба прямоугольника " alt="" coords="199,411,305,437"/>
+<area shape="rect" id="node9" href="$class_w_rect.html#ae08de5a415be7d87a08d3857a9858be7" title="WRect::translated смещает прямоугольник на указанную величину " alt="" coords="380,309,507,336"/>
+</map>

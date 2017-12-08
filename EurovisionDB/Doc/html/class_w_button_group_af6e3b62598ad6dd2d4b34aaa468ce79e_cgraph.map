@@ -1,0 +1,9 @@
+<map id="WButtonGroup::addButton" name="WButtonGroup::addButton">
+<area shape="rect" id="node2" href="$class_w_button_group.html#aac0cdaeb0aecedc222d72fec5b79489c" title="WButtonGroup::id получить id кнопки по указателю на неё " alt="" coords="475,13,601,40"/>
+<area shape="rect" id="node3" href="$class_w_button_group.html#a611079d4c834cf6e6291f8934c7d78fd" title="WButtonGroup::button Получить кнопку по её id. " alt="" coords="251,39,403,65"/>
+<area shape="rect" id="node4" href="$class_w_abstract_button.html#a772a966e0ad5a97c25c9ad35179bdcef" title="WAbstractButton::on_Toggleed Добавляет обработчик при переключении состояния кнопки. Срабатывает при изменении состояния кнопки " alt="" coords="255,90,399,131"/>
+<area shape="rect" id="node5" href="$class_w_abstract_button.html#a7b2e9317cf0adb290de879ea8e38d9b2" title="WAbstractButton::setChecked установить состояние(checked) кнопки " alt="" coords="228,156,427,183"/>
+<area shape="rect" id="node7" href="$class_w_button_group.html#ae4d9b4bcab3705e60f94885787ce4508" title="WButtonGroup::exclusive Включен ли режим для активации лишь одной кнопки из набора ..." alt="" coords="243,207,412,233"/>
+<area shape="rect" id="node8" href="$class_w_button_group.html#a4351273409028ae07a2d59535a03182c" title="WButtonGroup::buttons получить список кнопок " alt="" coords="248,257,407,284"/>
+<area shape="rect" id="node6" href="$class_w_widget.html#a03649a1ff2efc8dace58bcb847c34b91" title="&lt; Количество компонентов в системе " alt="" coords="481,156,595,183"/>
+</map>

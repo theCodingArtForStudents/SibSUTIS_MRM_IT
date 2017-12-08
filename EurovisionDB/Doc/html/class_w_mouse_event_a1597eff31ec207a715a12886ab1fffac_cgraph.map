@@ -1,0 +1,9 @@
+<map id="WMouseEvent::WMouseEvent" name="WMouseEvent::WMouseEvent">
+<area shape="rect" id="node2" href="$class_w_mouse_event.html#a57f7dd0c9eea1c61f289c0ea17b3ab86" title="WMouseEvent::setCursorPos Задать данные о положении мыши " alt="" coords="252,56,445,83"/>
+<area shape="rect" id="node5" href="$class_w_mouse_event.html#a2f9a62769cf38d5cb003839dd821bae8" title="WMouseEvent::setButton Установить информацию о нажатой кнопке мыши " alt="" coords="263,107,434,133"/>
+<area shape="rect" id="node7" href="$class_w_mouse_event.html#a679fff0ceee66f1b65b1ca93416f6669" title="WMouseEvent::setModifiers установить кливиши&#45;модификаторы " alt="" coords="257,157,441,184"/>
+<area shape="rect" id="node3" href="$class_w_mouse_event.html#a8ae29dad81c93e305784bfcad8c34b13" title="WMouseEvent::x получить позицию курсора по оси Ox. " alt="" coords="516,5,637,32"/>
+<area shape="rect" id="node4" href="$class_w_mouse_event.html#a18ed89dc96a302a182cfaa8a9474903a" title="WMouseEvent::y получить позицию курсора по оиси Oy. " alt="" coords="516,56,637,83"/>
+<area shape="rect" id="node6" href="$class_w_mouse_event.html#a7185c9f68f476f1d7478b0cd1c85476e" title="WMouseEvent::button получить информацию о нажатой кнопке мыши " alt="" coords="501,107,652,133"/>
+<area shape="rect" id="node8" href="$class_w_mouse_event.html#a82809b75a1cac13a8bbea8a2279a5be6" title="WMouseEvent::modifiers получить клавиши модификаторы " alt="" coords="493,157,660,184"/>
+</map>

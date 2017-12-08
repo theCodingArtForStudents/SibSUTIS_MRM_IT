@@ -1,0 +1,6 @@
+<map id="WRect::isEmpty" name="WRect::isEmpty">
+<area shape="rect" id="node2" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="184,5,271,32"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="180,56,275,83"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#a02d1f8010dd26f7b5253937fe5b990ef" title="WRect::top получить верхнюю границу прямоугольника " alt="" coords="183,107,271,133"/>
+<area shape="rect" id="node5" href="$class_w_rect.html#a6567c7dfb1971360e2b2e2684c573eed" title="WRect::bottom получить нижнюю границу прямоугольника " alt="" coords="172,157,283,184"/>
+</map>

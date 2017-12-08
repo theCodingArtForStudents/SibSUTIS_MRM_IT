@@ -1,0 +1,4 @@
+﻿  Win32Project1.cpp
+f:\thecodingartforstudents\sibsutis\mrm\sibsutis_mrm_it\winapi_tamplate\win32project1\win32project1\win32project1.cpp(132): warning C4101: 'ps': unreferenced local variable
+  Win32Project1.vcxproj -> F:\theCodingArtForStudents\SibSUTIS\MRM\SibSUTIS_MRM_IT\WinAPI_Tamplate\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> F:\theCodingArtForStudents\SibSUTIS\MRM\SibSUTIS_MRM_IT\WinAPI_Tamplate\Win32Project1\Debug\Win32Project1.pdb (Full PDB)

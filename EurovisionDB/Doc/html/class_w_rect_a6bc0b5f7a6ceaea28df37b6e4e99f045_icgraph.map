@@ -1,0 +1,30 @@
+<map id="WRect::left" name="WRect::left">
+<area shape="rect" id="node2" href="$class_test_window.html#a01794d113b3b5af0e7a0996fb25f29cf" title="TestWindow::paintEvent" alt="" coords="140,5,301,32"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#ab2795ea6deb0b57d2e97d540a8915495" title="WRect::width получить ширину прямоугольника " alt="" coords="171,259,271,285"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#a46d9daee196c01284f4690659e52b649" title="WRect::setWidth установить ширину прямоугольника " alt="" coords="357,107,480,133"/>
+<area shape="rect" id="node6" href="$class_w_rect.html#a8789e31060578c53426885b837b2dca2" title="WRect::WRect создать прямоугольник на основе уже существующего " alt="" coords="721,157,831,184"/>
+<area shape="rect" id="node11" href="$class_w_rect.html#a5c7c6c630c15e3e0ee5fd8c8cb462894" title="WRect::getRect получить позицию и размер прямоугольника " alt="" coords="361,157,476,184"/>
+<area shape="rect" id="node12" href="$class_w_rect.html#ab166f515ca3a32ddf59683f27837758b" title="WRect::center возвращает точку &#45; центр прямоугольника " alt="" coords="365,360,472,387"/>
+<area shape="rect" id="node13" href="$class_w_rect.html#a0220fa7d61ef0736c7278c6a7926b9bd" title="WRect::moveCenter перемещает центр прямоугольника в указанную точку " alt="" coords="349,411,488,437"/>
+<area shape="rect" id="node14" href="$class_w_rect.html#ad8c2be917c55b9efa01c92ac555adf0b" title="WRect::normalized возвращает прямоугольник с не отрицательными width() и height() если width() меньше..." alt="" coords="352,461,485,488"/>
+<area shape="rect" id="node15" href="$class_w_rect.html#ad69bc2a919533e40bafdc685b2eb50ae" title="WRect::isEmpty возвращает true если левая граница больше правой или верхняя граница меньше левой ..." alt="" coords="161,461,280,488"/>
+<area shape="rect" id="node16" href="$class_w_rect.html#ab9cef8ee0c87c1101c81b9bd7e8aea82" title="WRect::isValid возвращает true если левая граница меньше или равна правой и верхняя граница меньше ил..." alt="" coords="166,512,275,539"/>
+<area shape="rect" id="node17" href="$class_w_rect.html#aa848c3410dc2accd6026ff6056189947" title="WRect::isNull" alt="" coords="169,563,272,589"/>
+<area shape="rect" id="node18" href="$class_w_rect.html#a7b774d27bf62ba9b2ebf4c9b231b283a" title="WRect::topLeft получить верхнюю левую точку прямоугольника " alt="" coords="166,613,275,640"/>
+<area shape="rect" id="node20" href="$class_w_rect.html#a1f5e1b191f557cc62e18443e89eaca5a" title="WRect::bottomLeft получить нижнюю левую точку прямоугольника " alt="" coords="155,664,286,691"/>
+<area shape="rect" id="node21" href="$class_w_rect.html#abc15f292f0a61334283176586859a394" title="WRect::getCoords получить координаты прямоугольника " alt="" coords="156,715,285,741"/>
+<area shape="rect" id="node22" href="$class_w_rect.html#a3e73f60124b855041edaa985c3186a83" title="WRect::moveLeft сдвигает прямоугольник влево, на указанное смещение " alt="" coords="160,765,281,792"/>
+<area shape="rect" id="node23" href="$class_w_rect.html#afe6911ef52b6183fe72951b6175d4eac" title="WRect::moveRight сдвигает прямоугольник вправо, на указанное смещение " alt="" coords="155,816,286,843"/>
+<area shape="rect" id="node24" href="$class_w_rect.html#a7289772466a365e5fda060853634161f" title="WRect::translate сдвигает прямоугольник на указанное смещение " alt="" coords="161,867,281,893"/>
+<area shape="rect" id="node25" href="$class_w_rect.html#ac6a493bfbe28c9d68d9eb45987ef88dc" title="WRect::contains возвращает true в случае если точка находится внутри прямоугольника ..." alt="" coords="161,917,280,944"/>
+<area shape="rect" id="node27" href="$class_w_rect.html#a6a3e1a332d049447e2d15226d108a0b4" title="WRect::translated смещает прямоугольник на указанное смещение " alt="" coords="157,968,284,995"/>
+<area shape="rect" id="node29" href="$class_w_rect.html#a554559515fc88daf8b9b0a2e81f71400" title="WRect::united возвращяет прямоугольник охватывающий оба прямоугольника " alt="" coords="168,1019,273,1045"/>
+<area shape="rect" id="node8" href="$class_w_rect.html#a727bc4fb24fe0e56b47e70a07fe64225" title="WRect::moveTo перемещает левый верхний угол прямоугольника в указанную точку " alt="" coords="546,309,661,336"/>
+<area shape="rect" id="node10" href="$class_w_rect.html#a508519cbc750d0c116c3ba7e78583393" title="WRect::transposed меняет местами ширину и высоту прямоугольника " alt="" coords="536,208,671,235"/>
+<area shape="rect" id="node5" href="$class_w_rect.html#a0f92c207755a255cee715294177449ab" title="WRect::setRect установить новые значения позиции и размера для прямоугольника " alt="" coords="546,157,661,184"/>
+<area shape="rect" id="node7" href="$class_w_rect.html#a6fa05a0ab95304a51924714549c239cb" title="WRect::setSize установить размер прямоугольника " alt="" coords="546,107,661,133"/>
+<area shape="rect" id="node9" href="$class_w_rect.html#a075781e796ae49779f33d5fce5cdaabd" title="WRect::moveTo перемещает прямоугольник в указанную позицию " alt="" coords="719,309,833,336"/>
+<area shape="rect" id="node19" href="$class_w_rect.html#a1418a0b3b1800d2d7c1354174f5a09de" title="WRect::contains возвращает true в случае если переданный прямоугольник вписывается внутрь..." alt="" coords="359,613,478,640"/>
+<area shape="rect" id="node26" href="$class_w_rect.html#a980ebed60ba71a9ec0dbd007bd636a15" title="WRect::contains возвращает true в случае если точка находится внутри прямоугольника ..." alt="" coords="359,917,478,944"/>
+<area shape="rect" id="node28" href="$class_w_rect.html#ae08de5a415be7d87a08d3857a9858be7" title="WRect::translated смещает прямоугольник на указанную величину " alt="" coords="355,968,482,995"/>
+</map>

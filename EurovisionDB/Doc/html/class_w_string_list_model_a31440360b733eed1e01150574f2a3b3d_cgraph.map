@@ -1,0 +1,4 @@
+<map id="WStringListModel::setData" name="WStringListModel::setData">
+<area shape="rect" id="node2" href="$class_w_abstract_item_model.html#a120852fa81e0b0028446ab228d5b6252" title="WAbstractItemModel::dataChanhed событие изменения данных " alt="" coords="239,5,383,47"/>
+<area shape="rect" id="node3" href="$class_w_string_list_model.html#abf47f78a3c1c34853f17af29fdc7dccf" title="WStringListModel::data Получить данные по индексу в модели " alt="" coords="232,71,391,98"/>
+</map>

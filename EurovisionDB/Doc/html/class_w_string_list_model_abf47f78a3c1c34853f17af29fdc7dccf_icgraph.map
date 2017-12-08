@@ -1,0 +1,6 @@
+<map id="WStringListModel::data" name="WStringListModel::data">
+<area shape="rect" id="node2" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="439,24,569,50"/>
+<area shape="rect" id="node4" href="$class_w_list_view.html#abb935c6da2f0a80699abf99568533c96" title="WListView::update Метод для обновления элемента. Берёт информацию по индексу из модели ..." alt="" coords="236,24,367,50"/>
+<area shape="rect" id="node5" href="$class_w_string_list_model.html#a31440360b733eed1e01150574f2a3b3d" title="WStringListModel::setData установить данные в модель по указанному индексу " alt="" coords="212,74,391,101"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a24db1d5062183dbb26abf7552909e283" title="WinMain" alt="" coords="617,24,691,50"/>
+</map>

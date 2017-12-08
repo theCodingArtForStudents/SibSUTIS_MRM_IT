@@ -1,0 +1,6 @@
+<map id="WListView" name="WListView">
+<area shape="rect" id="node2" href="$class_w_abstract_item_view.html" title="WAbstractItemView Базовый класс для всех View. " alt="" coords="79,813,236,949"/>
+<area shape="rect" id="node3" href="$class_w_widget.html" title="WWidget класс являющийся базовым для всех виджетов системы. " alt="" coords="67,307,248,765"/>
+<area shape="rect" id="node4" href="$class_w_object.html" title="WObject базовый класс для все не GUI компонентов приложения. (Таймер, и т.п.) " alt="" coords="5,5,149,259"/>
+<area shape="rect" id="node5" href="$class_w_paint_device.html" title="Класс WPaintDevice описывает устройство на котором можно рисовать " alt="" coords="174,79,301,185"/>
+</map>

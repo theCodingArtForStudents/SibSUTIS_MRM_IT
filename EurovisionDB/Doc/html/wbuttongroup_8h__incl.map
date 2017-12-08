@@ -1,0 +1,15 @@
+<map id="wwin/ui/wbuttongroup.h" name="wwin/ui/wbuttongroup.h">
+<area shape="rect" id="node2" href="$wobject_8h.html" title="wwin/wobject.h" alt="" coords="752,229,861,256"/>
+<area shape="rect" id="node8" href="$wabstractbutton_8h.html" title="wwin/ui/wabstractbutton.h" alt="" coords="476,80,647,107"/>
+<area shape="rect" id="node4" href="$wstring_8h.html" title="wwin/wstring.h" alt="" coords="531,304,637,331"/>
+<area shape="rect" id="node7" href="$wevent_8h.html" title="wwin/wevent.h" alt="" coords="344,304,448,331"/>
+<area shape="rect" id="node11" href="$wwidget_8h.html" title="wwidget.h" alt="" coords="573,155,651,181"/>
+<area shape="rect" id="node12" href="$wmouseevent_8h.html" title="wwin/wmouseevent.h" alt="" coords="325,229,467,256"/>
+<area shape="rect" id="node13" href="$wresizeevent_8h.html" title="wwin/wresizeevent.h" alt="" coords="5,229,144,256"/>
+<area shape="rect" id="node15" href="$wmoveevent_8h.html" title="wwin/wmoveevent.h" alt="" coords="491,229,626,256"/>
+<area shape="rect" id="node17" href="$wpaintdevice_8h.html" title="wwin/wpaintdevice.h" alt="" coords="661,304,800,331"/>
+<area shape="rect" id="node18" href="$wpaintevent_8h.html" title="wwin/wpaintevent.h" alt="" coords="169,229,301,256"/>
+<area shape="rect" id="node14" href="$wsize_8h.html" title="wwin/wsize.h" alt="" coords="124,379,223,405"/>
+<area shape="rect" id="node16" href="$wpoint_8h.html" title="wwin/wpoint.h" alt="" coords="370,379,473,405"/>
+<area shape="rect" id="node19" href="$wrect_8h.html" title="wwin/wrect.h" alt="" coords="187,304,283,331"/>
+</map>

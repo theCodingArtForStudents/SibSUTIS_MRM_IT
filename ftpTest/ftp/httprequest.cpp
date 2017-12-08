@@ -1,7 +1,7 @@
 #include "httprequest.h"
 
 #include <winhttp.h>
-#pragma comment(lib, "winhttp.lib")
+//#pragma comment(lib, "winhttp.lib")
 
 HttpRequest::HttpRequest(const std::wstring &userAgent, const std::wstring &proxyIp, const std::wstring &proxyPort) :
     _userAgent(userAgent)

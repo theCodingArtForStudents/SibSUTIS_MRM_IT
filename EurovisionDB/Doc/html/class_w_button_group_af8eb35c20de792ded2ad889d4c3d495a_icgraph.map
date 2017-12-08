@@ -1,0 +1,3 @@
+<map id="WButtonGroup::removeButton" name="WButtonGroup::removeButton">
+<area shape="rect" id="node2" href="$class_w_abstract_button.html#a22bc096e23fc922d7f856d85aebc6283" title="WAbstractButton::~WAbstractButton Виртуальный деструктор, с удалением кнопки из группы чтобы избежать..." alt="" coords="248,5,448,47"/>
+</map>

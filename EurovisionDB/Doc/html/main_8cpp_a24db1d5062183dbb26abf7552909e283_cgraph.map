@@ -1,0 +1,65 @@
+<map id="WinMain" name="WinMain">
+<area shape="rect" id="node2" href="$class_w_application.html#a99ebbdc2f7c243eec493cb85b0b907c3" title="WApplication::instance метод для получения экземпляра приложение, т.к. приложение является Singletone..." alt="" coords="127,767,283,794"/>
+<area shape="rect" id="node3" href="$class_w_widget.html#a46cc2cc7447705d3097d9721b53e8d72" title="WWidget::show отобразить виджет " alt="" coords="621,1370,736,1397"/>
+<area shape="rect" id="node18" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="139,818,270,845"/>
+<area shape="rect" id="node64" href="$class_w_application.html#af02bfc8f4360d4f6f2b33e981e74bce6" title="WApplication::run метод запускающий цикл событий и обработку сообщений. " alt="" coords="142,1522,267,1549"/>
+<area shape="rect" id="node4" href="$class_w_widget.html#a03649a1ff2efc8dace58bcb847c34b91" title="&lt; Количество компонентов в системе " alt="" coords="1268,695,1383,722"/>
+<area shape="rect" id="node5" href="$class_w_widget.html#addb0bd642616d767f64b4d1b43cd9484" title="WWidget::initWndClass инициализировать окно класса. " alt="" coords="839,1265,1000,1291"/>
+<area shape="rect" id="node6" href="$class_win_api_window_builder.html#a2b54aec40ca0d5a2ddc06d7f478c9dc2" title="WinApiWindowBuilder::className задать имя класса " alt="" coords="1067,1224,1218,1265"/>
+<area shape="rect" id="node7" href="$class_win_api_window_builder.html#ac27726ea12a146b29de3701239e204a7" title="WinApiWindowBuilder::title задать заголовок окна " alt="" coords="1067,1289,1218,1331"/>
+<area shape="rect" id="node8" href="$class_w_widget.html#af7f9ffd54c95252c7a358f3690643818" title="WWidget::title получить заголовок виджета " alt="" coords="1090,925,1195,951"/>
+<area shape="rect" id="node9" href="$class_win_api_window_builder.html#af739aa2a5bb8a1a6659700efd3f73cea" title="WinApiWindowBuilder::style задать стиль окна " alt="" coords="1067,1355,1218,1396"/>
+<area shape="rect" id="node10" href="$class_w_widget.html#a5ac31ee20efdb5d69b62118db170bd61" title="&lt; Заголовок окна " alt="" coords="1087,1421,1199,1447"/>
+<area shape="rect" id="node11" href="$class_win_api_window_builder.html#aa0d3537be6ece0d7183bcf24824e075a" title="WinApiWindowBuilder::geometry задать расположение окна " alt="" coords="1067,976,1218,1017"/>
+<area shape="rect" id="node12" href="$class_win_api_window_builder.html#ad4aa86af92bc6c0d7f7226228dd33478" title="WinApiWindowBuilder::parent задать родительское окно " alt="" coords="1067,1041,1218,1083"/>
+<area shape="rect" id="node13" href="$class_w_widget.html#a893cc1f98afa1747f6ac553c34c9f1b9" title="WWidget::parentHwnd получить хендл родительского окна " alt="" coords="1067,1674,1219,1701"/>
+<area shape="rect" id="node16" href="$class_win_api_window_builder.html#a459dd5ef97f06cb19a08d5c2da5bfa13" title="WinApiWindowBuilder::hinstance задать hinstance для окна " alt="" coords="1067,1107,1218,1148"/>
+<area shape="rect" id="node17" href="$class_w_widget.html#a4924fb9003a2488549b01ff723a67b0f" title="WWidget::cid Получить ID компонента " alt="" coords="1092,1173,1193,1199"/>
+<area shape="rect" id="node14" href="$class_w_object.html#abb3f92902b8791763b7610e5f92d9ad7" title="WObject::parent Позволяет получить указатель на родителя компонента " alt="" coords="1267,1649,1384,1675"/>
+<area shape="rect" id="node15" href="$class_w_object.html#a32d1234aa4f906b45164d7a019e88cd3" title="WObject::type позволяет получить тип компонента из перечисления WObjectType. " alt="" coords="1272,1699,1379,1726"/>
+<area shape="rect" id="node19" href="$class_w_screen.html#ac4e303da65cc962217e19a65357e012b" title="WScreen::width получить ширину экрана " alt="" coords="377,173,491,199"/>
+<area shape="rect" id="node20" href="$class_w_screen.html#a3b6cfd7a1766d0c95911832afd050651" title="WScreen::height получить высоту экрана " alt="" coords="375,223,493,250"/>
+<area shape="rect" id="node21" href="$class_w_widget.html#aaf14215650544d748fdaedd64797324e" title="WWidget::setGeometry установить размеры и положение виджета " alt="" coords="840,85,999,111"/>
+<area shape="rect" id="node22" href="$class_w_line_edit.html#a86b265eb295c734a10b91625145ae29a" title="WLineEdit::setEchoMode установить режим вывода " alt="" coords="349,122,519,149"/>
+<area shape="rect" id="node24" href="$class_w_list_view.html#a0e254b68f53d5d509fc1101093a67648" title="WListView::setModel Метод для установки модели для View. " alt="" coords="361,375,507,402"/>
+<area shape="rect" id="node26" href="$class_w_list_view.html#af3458b5959b606e0b14b6e318aeffeb0" title="WListView::model" alt="" coords="615,258,742,285"/>
+<area shape="rect" id="node29" href="$class_w_list_view.html#a2fc8123bda4c33da219da260eb24f901" title="WListView::on_select Метод для добавления функции обратного вызова на событие выбора элемента в списк..." alt="" coords="360,477,508,503"/>
+<area shape="rect" id="node30" href="$class_w_string_list_model.html#abf47f78a3c1c34853f17af29fdc7dccf" title="WStringListModel::data Получить данные по индексу в модели " alt="" coords="599,958,758,985"/>
+<area shape="rect" id="node31" href="$class_w_message_box.html#a25457abcf7e1eaa568994085717a74d7" title="WMessageBox::critical Выдать информационное сообщение " alt="" coords="828,249,1011,275"/>
+<area shape="rect" id="node32" href="$class_w_list_view.html#a6ad8e009a7969f0173f54a6035e16e4f" title="WListView::on_doubleClick Метод для добавления функции обратного вызова на событие двойного клика на ..." alt="" coords="344,629,524,655"/>
+<area shape="rect" id="node33" href="$class_w_message_box.html#aa90a4d00239ffdcd48b2999a45a3a0d4" title="WMessageBox::critical Выдать предупредительное сообщение " alt="" coords="838,510,1001,537"/>
+<area shape="rect" id="node34" href="$class_w_widget.html#a7fbeac4ee431bddb1fe31401870134be" title="WWidget::setFocus Установить фокус на виджет " alt="" coords="850,577,989,603"/>
+<area shape="rect" id="node35" href="$class_w_abstract_button.html#ac4c16e8349cb822ee7d8c51cf8e710cb" title="WAbstractButton::on_pressed Добавляет метод обработки нажатия кнопки. Срабатывает до клика и до отпус..." alt="" coords="362,781,506,823"/>
+<area shape="rect" id="node36" href="$class_w_string_list_model.html#a31440360b733eed1e01150574f2a3b3d" title="WStringListModel::setData установить данные в модель по указанному индексу " alt="" coords="345,999,523,1026"/>
+<area shape="rect" id="node38" href="$class_w_line_edit.html#acd17134ec9f7ef379aab5cb05ceb24c1" title="WLineEdit::value получить значение из поля ввода " alt="" coords="375,847,493,874"/>
+<area shape="rect" id="node39" href="$class_w_list_box.html#a4fd2402896dd01e51051fdc7941a4584" title="WListBox::addListItem Добавить элемент в список " alt="" coords="842,635,997,662"/>
+<area shape="rect" id="node40" href="$class_w_mouse_event.html#a82809b75a1cac13a8bbea8a2279a5be6" title="WMouseEvent::modifiers получить клавиши модификаторы " alt="" coords="351,949,517,975"/>
+<area shape="rect" id="node41" href="$class_w_widget.html#a0b5e27fba374193b8ce86e4cbe0e29fb" title="WWidget::setTitle Установить заголовок виджета " alt="" coords="615,1101,742,1127"/>
+<area shape="rect" id="node42" href="$class_w_abstract_button.html#a772a966e0ad5a97c25c9ad35179bdcef" title="WAbstractButton::on_Toggleed Добавляет обработчик при переключении состояния кнопки. Срабатывает при изменении состояния кнопки " alt="" coords="607,629,751,671"/>
+<area shape="rect" id="node43" href="$class_w_button_group.html#af6e3b62598ad6dd2d4b34aaa468ce79e" title="WButtonGroup::addButton Добавить кнопку в группу " alt="" coords="347,730,521,757"/>
+<area shape="rect" id="node49" href="$class_w_plain_text_edit.html#ab92df7168a946bbbc818d0a107c275d9" title="WPlainTextEdit::on_changed привязать обработчик на событие изменения текста. " alt="" coords="367,1152,501,1193"/>
+<area shape="rect" id="node50" href="$class_w_plain_text_edit.html#a26c3388bf747e6fe4feb2f7580e589ca" title="WPlainTextEdit::setPlainText Установить текст в поле ввода " alt="" coords="338,1101,530,1127"/>
+<area shape="rect" id="node51" href="$class_w_spin_box.html#a4433acf678c4788aff2ef422096018a8" title="WSpinBox::show показать виджет " alt="" coords="373,1522,495,1549"/>
+<area shape="rect" id="node56" href="$class_w_spin_box.html#aece7b21f3e298895a402bd9ed81e3229" title="WSpinBox::on_changed добавить функцию обратного вызова на событие изменения значения ..." alt="" coords="353,1319,515,1346"/>
+<area shape="rect" id="node57" href="$class_w_progress_bar.html#aa130a55961e7c170dbc47a2220634b37" title="WProgressBar::setValue установить новое значение пргресса " alt="" coords="351,1674,517,1701"/>
+<area shape="rect" id="node59" href="$class_w_spin_box.html#ad49bb5c1d486a3da8de8cc40c32e5919" title="WSpinBox::setValue установить текущее значение " alt="" coords="363,1269,505,1295"/>
+<area shape="rect" id="node60" href="$class_w_label.html#ab0948e50f82e2b8243b10753d07360cd" title="WLabel::setImage установить изображение в виджет " alt="" coords="371,1421,497,1447"/>
+<area shape="rect" id="node61" href="$class_w_string_list_model.html#aef9be1eb4569c85b4cbd90836d1a534b" title="WStringListModel::setStringList Установить список строк в модель " alt="" coords="331,1050,537,1077"/>
+<area shape="rect" id="node62" href="$class_w_standard_paths.html#a3af8a33ac5d181d04e92826f55b165ea" title="WStandardPaths::locateAll &#45; искать запрашиваемый файл в во всехсистемных директориях указанного типа ..." alt="" coords="345,17,523,43"/>
+<area shape="rect" id="node23" href="$class_w_widget.html#a456100ac50cd50dc49f19514d4eda18f" title="WWidget::setStyle установить стиль виджета " alt="" coords="853,162,985,189"/>
+<area shape="rect" id="node25" href="$class_w_abstract_item_model.html#a1bd5dc835aeae91d7c8db5ec9bf9a746" title="WAbstractItemModel\l::__removeUpdateListener" alt="" coords="833,355,1005,396"/>
+<area shape="rect" id="node27" href="$class_w_string_list_model.html#a11e7d8413997cff5ba5c5e72390bd176" title="WStringListModel::stringList получить список строк из модели " alt="" coords="585,426,772,453"/>
+<area shape="rect" id="node28" href="$class_w_abstract_item_view.html#a9091a54c92073b5e4c074b0e9bd92578" title="WAbstractItemView::setModel Метод для утановки модели. Можно передать nullptr для отписки от модели ..." alt="" coords="606,309,751,351"/>
+<area shape="rect" id="node37" href="$class_w_abstract_item_model.html#a120852fa81e0b0028446ab228d5b6252" title="WAbstractItemModel::dataChanhed событие изменения данных " alt="" coords="607,1027,751,1068"/>
+<area shape="rect" id="node44" href="$class_w_button_group.html#aac0cdaeb0aecedc222d72fec5b79489c" title="WButtonGroup::id получить id кнопки по указателю на неё " alt="" coords="856,823,983,850"/>
+<area shape="rect" id="node45" href="$class_w_button_group.html#a611079d4c834cf6e6291f8934c7d78fd" title="WButtonGroup::button Получить кнопку по её id. " alt="" coords="603,898,755,925"/>
+<area shape="rect" id="node46" href="$class_w_abstract_button.html#a7b2e9317cf0adb290de879ea8e38d9b2" title="WAbstractButton::setChecked установить состояние(checked) кнопки " alt="" coords="820,695,1019,722"/>
+<area shape="rect" id="node47" href="$class_w_button_group.html#ae4d9b4bcab3705e60f94885787ce4508" title="WButtonGroup::exclusive Включен ли режим для активации лишь одной кнопки из набора ..." alt="" coords="594,746,763,773"/>
+<area shape="rect" id="node48" href="$class_w_button_group.html#a4351273409028ae07a2d59535a03182c" title="WButtonGroup::buttons получить список кнопок " alt="" coords="599,797,758,823"/>
+<area shape="rect" id="node52" href="$class_w_widget.html#a77b61e48357eb916992b82399ce97528" title="WWidget::nextCid" alt="" coords="615,1421,743,1447"/>
+<area shape="rect" id="node53" href="$class_w_spin_box.html#a43a888e71cfb9a41576062050a3e0d99" title="WSpinBox::maximum получить максимальное допустимое значение " alt="" coords="604,1471,753,1498"/>
+<area shape="rect" id="node54" href="$class_w_spin_box.html#aa2ea955f5160b57e5a28036aa4d33dd6" title="WSpinBox::minimum получить минимальное допустимое значение " alt="" coords="606,1522,751,1549"/>
+<area shape="rect" id="node55" href="$class_w_spin_box.html#a334b4e9ae9a470fab2afeb506824c691" title="WSpinBox::value получть текущее значение " alt="" coords="618,1294,739,1321"/>
+<area shape="rect" id="node58" href="$class_w_progress_bar.html#a1b47a836e306212004e54ccb7c28e936" title="WProgressBar::value Получить текущее значение прогресса " alt="" coords="607,1725,751,1751"/>
+<area shape="rect" id="node63" href="$class_w_standard_paths.html#a8428a56835922eb3f8759de4ebc4d04b" title="WStandardPaths::standardLocations получить список всех системных директорий указанного типа ..." alt="" coords="589,5,768,47"/>
+</map>

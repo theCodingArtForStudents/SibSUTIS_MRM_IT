@@ -14,7 +14,7 @@ int main()
   groupNumber /= 10;
 
   string faculty;
-  switch ( groupNumber % 10 )
+  switch ( groupNumber )
   {
   case 1:
     faculty = "history";

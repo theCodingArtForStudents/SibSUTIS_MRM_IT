@@ -1,0 +1,5 @@
+<map id="WSize::boundedTo" name="WSize::boundedTo">
+<area shape="rect" id="node2" href="$class_w_size.html#ad064a95168631c3f35935bc1f90449af" title="WSize::width получить текущую ширину " alt="" coords="190,5,289,32"/>
+<area shape="rect" id="node3" href="$class_w_size.html#a3c3ac63e03c38a9b4c044d2e283bd7f2" title="WSize::height получить высоту " alt="" coords="187,56,291,83"/>
+<area shape="rect" id="node4" href="$class_w_size.html#a7a7d2b6f8b82d53f9d13911d645fee31" title="WSize::WSize Конструктор по умолчанию. Высота и ширина будут равны нулю. " alt="" coords="185,107,293,133"/>
+</map>

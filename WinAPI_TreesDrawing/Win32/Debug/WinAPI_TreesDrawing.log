@@ -1,0 +1,7 @@
+﻿  pr.cpp
+pr.cpp(23): warning C4100: 'lpCmdLine': unreferenced formal parameter
+pr.cpp(23): warning C4100: 'hPrevInstance': unreferenced formal parameter
+pr.cpp(105): warning C4100: 'hwnd': unreferenced formal parameter
+pr.cpp(137): warning C4100: 'hwnd': unreferenced formal parameter
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+debug\\WinAPI_TreesDrawing.exe : fatal error LNK1120: 1 unresolved externals

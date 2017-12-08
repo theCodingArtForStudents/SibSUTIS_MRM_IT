@@ -1,0 +1,6 @@
+<map id="WListBox::addListItem" name="WListBox::addListItem">
+<area shape="rect" id="node2" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="218,5,349,32"/>
+<area shape="rect" id="node4" href="$class_w_list_box.html#a46ccb0a8f470f23d58bb26aa13e8a1e7" title="WListBox::setItemList Устаноовить список элементов " alt="" coords="208,56,359,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a24db1d5062183dbb26abf7552909e283" title="WinMain" alt="" coords="442,5,515,32"/>
+<area shape="rect" id="node5" href="$class_w_list_box.html#ad2e7c90c83ffb8dc59e22db463673c8b" title="WListBox::WListBox Конструктор с инициализацией базовго класса и списка элементов ..." alt="" coords="407,56,551,83"/>
+</map>

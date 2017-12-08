@@ -1,0 +1,6 @@
+<map id="WButtonGroup::exclusive" name="WButtonGroup::exclusive">
+<area shape="rect" id="node2" href="$class_w_button_group.html#af6e3b62598ad6dd2d4b34aaa468ce79e" title="WButtonGroup::addButton Добавить кнопку в группу " alt="" coords="230,5,405,32"/>
+<area shape="rect" id="node5" href="$class_w_button_group.html#adf80f00cc97e053266b2e46f74afd92f" title="WButtonGroup::setExclusive Установить режим для активации лишь одной кнопки из набора ..." alt="" coords="223,56,412,83"/>
+<area shape="rect" id="node3" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="460,5,591,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a24db1d5062183dbb26abf7552909e283" title="WinMain" alt="" coords="639,5,712,32"/>
+</map>

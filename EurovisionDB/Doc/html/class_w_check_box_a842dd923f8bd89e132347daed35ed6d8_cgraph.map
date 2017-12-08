@@ -1,0 +1,17 @@
+<map id="WCheckBox::WCheckBox" name="WCheckBox::WCheckBox">
+<area shape="rect" id="node2" href="$class_w_widget.html#addb0bd642616d767f64b4d1b43cd9484" title="WWidget::initWndClass инициализировать окно класса. " alt="" coords="253,313,415,339"/>
+<area shape="rect" id="node16" href="$class_w_abstract_button.html#aea94b5b4efbc01448b61994e19478455" title="WAbstractButton::setCheckable установить для кнопки возможность переключения состояний ..." alt="" coords="229,363,439,390"/>
+<area shape="rect" id="node3" href="$class_win_api_window_builder.html#a2b54aec40ca0d5a2ddc06d7f478c9dc2" title="WinApiWindowBuilder::className задать имя класса " alt="" coords="487,5,638,47"/>
+<area shape="rect" id="node4" href="$class_win_api_window_builder.html#ac27726ea12a146b29de3701239e204a7" title="WinApiWindowBuilder::title задать заголовок окна " alt="" coords="487,71,638,112"/>
+<area shape="rect" id="node5" href="$class_w_widget.html#af7f9ffd54c95252c7a358f3690643818" title="WWidget::title получить заголовок виджета " alt="" coords="510,137,615,163"/>
+<area shape="rect" id="node6" href="$class_win_api_window_builder.html#af739aa2a5bb8a1a6659700efd3f73cea" title="WinApiWindowBuilder::style задать стиль окна " alt="" coords="487,188,638,229"/>
+<area shape="rect" id="node7" href="$class_w_widget.html#a5ac31ee20efdb5d69b62118db170bd61" title="&lt; Заголовок окна " alt="" coords="507,254,619,281"/>
+<area shape="rect" id="node8" href="$class_win_api_window_builder.html#aa0d3537be6ece0d7183bcf24824e075a" title="WinApiWindowBuilder::geometry задать расположение окна " alt="" coords="487,305,638,347"/>
+<area shape="rect" id="node9" href="$class_win_api_window_builder.html#ad4aa86af92bc6c0d7f7226228dd33478" title="WinApiWindowBuilder::parent задать родительское окно " alt="" coords="487,371,638,412"/>
+<area shape="rect" id="node10" href="$class_w_widget.html#a893cc1f98afa1747f6ac553c34c9f1b9" title="WWidget::parentHwnd получить хендл родительского окна " alt="" coords="487,437,639,463"/>
+<area shape="rect" id="node12" href="$class_w_widget.html#a03649a1ff2efc8dace58bcb847c34b91" title="&lt; Количество компонентов в системе " alt="" coords="688,487,803,514"/>
+<area shape="rect" id="node14" href="$class_win_api_window_builder.html#a459dd5ef97f06cb19a08d5c2da5bfa13" title="WinApiWindowBuilder::hinstance задать hinstance для окна " alt="" coords="487,539,638,580"/>
+<area shape="rect" id="node15" href="$class_w_widget.html#a4924fb9003a2488549b01ff723a67b0f" title="WWidget::cid Получить ID компонента " alt="" coords="512,605,613,631"/>
+<area shape="rect" id="node11" href="$class_w_object.html#abb3f92902b8791763b7610e5f92d9ad7" title="WObject::parent Позволяет получить указатель на родителя компонента " alt="" coords="687,386,804,413"/>
+<area shape="rect" id="node13" href="$class_w_object.html#a32d1234aa4f906b45164d7a019e88cd3" title="WObject::type позволяет получить тип компонента из перечисления WObjectType. " alt="" coords="692,437,799,463"/>
+</map>

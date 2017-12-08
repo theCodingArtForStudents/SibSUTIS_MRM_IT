@@ -1,0 +1,12 @@
+<map id="WRect::setSize" name="WRect::setSize">
+<area shape="rect" id="node2" href="$class_w_rect.html#a46d9daee196c01284f4690659e52b649" title="WRect::setWidth установить ширину прямоугольника " alt="" coords="169,31,292,57"/>
+<area shape="rect" id="node6" href="$class_w_size.html#ad064a95168631c3f35935bc1f90449af" title="WSize::width получить текущую ширину " alt="" coords="181,81,280,108"/>
+<area shape="rect" id="node7" href="$class_w_rect.html#af4f7b590dcbf6af10b9990ec71a024d6" title="WRect::setHeight установить высоту прямоугольника " alt="" coords="168,132,293,159"/>
+<area shape="rect" id="node11" href="$class_w_size.html#a3c3ac63e03c38a9b4c044d2e283bd7f2" title="WSize::height получить высоту " alt="" coords="179,183,283,209"/>
+<area shape="rect" id="node3" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="507,5,593,32"/>
+<area shape="rect" id="node4" href="$class_w_rect.html#ab2795ea6deb0b57d2e97d540a8915495" title="WRect::width получить ширину прямоугольника " alt="" coords="344,56,444,83"/>
+<area shape="rect" id="node5" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="503,56,597,83"/>
+<area shape="rect" id="node8" href="$class_w_rect.html#a02d1f8010dd26f7b5253937fe5b990ef" title="WRect::top получить верхнюю границу прямоугольника " alt="" coords="506,107,594,133"/>
+<area shape="rect" id="node9" href="$class_w_rect.html#a9b67c2f5dd729466914829797e51a213" title="WRect::height получить высоту прямоугольника " alt="" coords="341,157,447,184"/>
+<area shape="rect" id="node10" href="$class_w_rect.html#a6567c7dfb1971360e2b2e2684c573eed" title="WRect::bottom получить нижнюю границу прямоугольника " alt="" coords="495,157,605,184"/>
+</map>
