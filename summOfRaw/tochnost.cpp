@@ -43,7 +43,9 @@ int main()
     n++;
   }
 
-  cout << endl << "summ is: " << sum << endl;
-  cout << endl << "summ is: " << sum2 << endl;
+  cout << "an = (10^n)/n! eps = 10^4 " << endl
+       << "summ is: " << sum << endl;
+  cout << endl << "an = n! / (10^n) eps = 10^-4 " << endl
+       <<"summ is: " << sum2 << endl;
   return 0;
 }
