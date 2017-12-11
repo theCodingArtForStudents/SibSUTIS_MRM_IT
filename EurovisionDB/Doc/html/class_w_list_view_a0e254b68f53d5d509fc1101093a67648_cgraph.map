@@ -1,7 +1,0 @@
-<map id="WListView::setModel" name="WListView::setModel">
-<area shape="rect" id="node2" href="$class_w_abstract_item_model.html#a1bd5dc835aeae91d7c8db5ec9bf9a746" title="WAbstractItemModel\l::__removeUpdateListener" alt="" coords="433,16,605,58"/>
-<area shape="rect" id="node3" href="$class_w_list_view.html#af3458b5959b606e0b14b6e318aeffeb0" title="WListView::model" alt="" coords="229,26,355,53"/>
-<area shape="rect" id="node4" href="$class_w_string_list_model.html#a11e7d8413997cff5ba5c5e72390bd176" title="WStringListModel::stringList получить список строк из модели " alt="" coords="199,77,385,104"/>
-<area shape="rect" id="node5" href="$class_w_abstract_item_view.html#a9091a54c92073b5e4c074b0e9bd92578" title="WAbstractItemView::setModel Метод для утановки модели. Можно передать nullptr для отписки от модели ..." alt="" coords="219,128,365,170"/>
-<area shape="rect" id="node6" href="$class_w_abstract_item_model.html#a65f1e93456394b594f8673f0c3b89330" title="WAbstractItemModel::__addUpdateListener Метод для подписки View на события модели об обновлении данны..." alt="" coords="443,128,595,170"/>
-</map>

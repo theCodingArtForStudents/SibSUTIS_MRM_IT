@@ -1,8 +1,0 @@
-<map id="WWidget::event" name="WWidget::event">
-<area shape="rect" id="node2" href="$class_w_line_edit.html#ac5c601e534a1017e15739fa4b62782ac" title="WLineEdit::event Обработка событий " alt="" coords="183,5,303,32"/>
-<area shape="rect" id="node3" href="$class_w_list_box.html#a11b8d3385ab2068ca5e2d632fb664bc1" title="WWidget::event обработка потока событий " alt="" coords="185,56,302,83"/>
-<area shape="rect" id="node4" href="$class_w_list_view.html#ae0ec7d5d0d09d70bfeeecfb43ad929cc" title="WWidget::event обработка потока событий " alt="" coords="182,107,305,133"/>
-<area shape="rect" id="node5" href="$class_w_plain_text_edit.html#a4931fb6c66116e6711a28814b918adf8" title="WPlainTextEdit::event Обработка событий " alt="" coords="168,157,319,184"/>
-<area shape="rect" id="node6" href="$class_w_spin_box.html#ad549c93319dddf27460287a7792a4fa4" title="WSpinBox::event Обработка событий " alt="" coords="182,208,305,235"/>
-<area shape="rect" id="node7" href="$class_w_widget.html#a2c35f6579743ee526525aae39a417284" title="WWidget::nativeEvent Обработка нативных системных событий и их преобразование в систему событий WWin..." alt="" coords="169,259,318,285"/>
-</map>

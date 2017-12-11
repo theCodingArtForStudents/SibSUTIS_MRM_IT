@@ -1,6 +1,0 @@
-<map id="WPoint::operator*=" name="WPoint::operator*=">
-<area shape="rect" id="node2" href="$class_w_point.html#a4268c5a979b0966d4df5aef227f8f7a0" title="WPoint::setX установить значение x координаты " alt="" coords="187,5,286,32"/>
-<area shape="rect" id="node3" href="$class_w_point.html#a57d334297cf16c0efe35ab1ccb31dfaf" title="WPoint::x получить значение x координаты " alt="" coords="335,44,415,71"/>
-<area shape="rect" id="node4" href="$class_w_point.html#aaed752f07c3a88ed1f7d887bb95a539f" title="WPoint::setY установить значение y координаты " alt="" coords="187,107,287,133"/>
-<area shape="rect" id="node5" href="$class_w_point.html#a6841f16c5fb8a9c744ad9b75c885c4cb" title="WPoint::y получить значение y координаты " alt="" coords="335,120,415,147"/>
-</map>

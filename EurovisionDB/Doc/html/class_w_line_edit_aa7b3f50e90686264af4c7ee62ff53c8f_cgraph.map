@@ -1,5 +1,0 @@
-<map id="WLineEdit::setText" name="WLineEdit::setText">
-<area shape="rect" id="node2" href="$class_w_widget.html#a0b5e27fba374193b8ce86e4cbe0e29fb" title="WWidget::setTitle Установить заголовок виджета " alt="" coords="187,31,313,57"/>
-<area shape="rect" id="node3" href="$class_w_widget.html#af7f9ffd54c95252c7a358f3690643818" title="WWidget::title получить заголовок виджета " alt="" coords="366,5,471,32"/>
-<area shape="rect" id="node4" href="$class_w_widget.html#a03649a1ff2efc8dace58bcb847c34b91" title="&lt; Количество компонентов в системе " alt="" coords="361,56,476,83"/>
-</map>

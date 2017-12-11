@@ -1,5 +1,0 @@
-<map id="WImage::isNull" name="WImage::isNull">
-<area shape="rect" id="node2" href="$class_w_label.html#a35c39a2b3f26a32a83c33a818a0d40b5" title="WLabel::setImage установить изображение в виджет " alt="" coords="164,5,291,32"/>
-<area shape="rect" id="node3" href="$class_w_image.html#ad30a2d3429f945aee4b43e9380c62e75" title="WImage::load загрузить картинку из файла " alt="" coords="176,56,279,83"/>
-<area shape="rect" id="node4" href="$class_w_image.html#a4c262daa09ef61ceacab732741e351aa" title="WImage::WImage конструктор с инициализацией " alt="" coords="339,56,465,83"/>
-</map>

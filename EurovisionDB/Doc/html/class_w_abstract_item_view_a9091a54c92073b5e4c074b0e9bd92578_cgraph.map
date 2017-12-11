@@ -1,4 +1,0 @@
-<map id="WAbstractItemView::setModel" name="WAbstractItemView::setModel">
-<area shape="rect" id="node2" href="$class_w_abstract_item_model.html#a65f1e93456394b594f8673f0c3b89330" title="WAbstractItemModel::__addUpdateListener Метод для подписки View на события модели об обновлении данны..." alt="" coords="209,5,361,47"/>
-<area shape="rect" id="node3" href="$class_w_abstract_item_model.html#a1bd5dc835aeae91d7c8db5ec9bf9a746" title="WAbstractItemModel\l::__removeUpdateListener" alt="" coords="199,71,371,112"/>
-</map>

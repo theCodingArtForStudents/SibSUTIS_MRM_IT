@@ -1,9 +1,0 @@
-<map id="WRect::contains" name="WRect::contains">
-<area shape="rect" id="node2" href="$class_w_rect.html#ac6a493bfbe28c9d68d9eb45987ef88dc" title="WRect::contains возвращает true в случае если точка находится внутри прямоугольника ..." alt="" coords="172,81,291,108"/>
-<area shape="rect" id="node7" href="$class_w_point.html#a57d334297cf16c0efe35ab1ccb31dfaf" title="WPoint::x получить значение x координаты " alt="" coords="191,132,271,159"/>
-<area shape="rect" id="node8" href="$class_w_point.html#a6841f16c5fb8a9c744ad9b75c885c4cb" title="WPoint::y получить значение y координаты " alt="" coords="191,183,271,209"/>
-<area shape="rect" id="node3" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="351,5,437,32"/>
-<area shape="rect" id="node4" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="347,56,441,83"/>
-<area shape="rect" id="node5" href="$class_w_rect.html#a02d1f8010dd26f7b5253937fe5b990ef" title="WRect::top получить верхнюю границу прямоугольника " alt="" coords="350,107,438,133"/>
-<area shape="rect" id="node6" href="$class_w_rect.html#a6567c7dfb1971360e2b2e2684c573eed" title="WRect::bottom получить нижнюю границу прямоугольника " alt="" coords="339,157,449,184"/>
-</map>

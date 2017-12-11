@@ -1,5 +1,0 @@
-<map id="WAbstractButton::nextCheckState" name="WAbstractButton::nextCheckState">
-<area shape="rect" id="node2" href="$class_w_abstract_button.html#a0850effd1023d12a55244a42e4a58ff8" title="WAbstractButton::click метод имитирует клик на кнопку, не проверяет нахождение мыши в кликабельной зо..." alt="" coords="275,5,432,32"/>
-<area shape="rect" id="node3" href="$class_w_abstract_button.html#a3041011914ae6ebcb80920c962169774" title="WAbstractButton::toggle Переключить состояние кнопки. Переводит кнопку в следующее состояние..." alt="" coords="271,56,436,83"/>
-<area shape="rect" id="node4" href="$class_w_abstract_button.html#a5a58f796531343c4b836b70beeb64e0d" title="WAbstractButton::mouseReleaseEvent событие отпускания кнопки " alt="" coords="245,107,461,149"/>
-</map>

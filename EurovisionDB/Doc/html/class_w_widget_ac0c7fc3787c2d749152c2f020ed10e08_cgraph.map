@@ -1,9 +1,0 @@
-<map id="WWidget::event" name="WWidget::event">
-<area shape="rect" id="node2" href="$class_w_event.html#a5dd02a6ef95750501a087978ac3cff66" title="WEvent::type Получить тип события " alt="" coords="219,5,319,32"/>
-<area shape="rect" id="node3" href="$class_w_widget.html#a2508a93b1f5c43c957e08ea229a9475a" title="WWidget::mouseReleaseEvent событие отпускания кнопки мыши " alt="" coords="168,56,371,83"/>
-<area shape="rect" id="node5" href="$class_w_widget.html#a74a99614cd6e8235eda2b51db55dd551" title="WWidget::resizeEvent" alt="" coords="194,107,345,133"/>
-<area shape="rect" id="node6" href="$class_w_widget.html#a34431a218b6845b79e4d48788242a34c" title="WWidget::moveEvent" alt="" coords="196,157,343,184"/>
-<area shape="rect" id="node7" href="$class_w_widget.html#a7228408595cd54458c6d0efe93f70497" title="WWidget::paintEvent" alt="" coords="197,208,341,235"/>
-<area shape="rect" id="node8" href="$class_w_object.html#a06d258cba851befe42243d99b84da543" title="WObject::event базовыый обработчик событий, должен вызывать все остальные события ..." alt="" coords="214,259,325,285"/>
-<area shape="rect" id="node4" href="$class_w_event.html#a93fea4265164a17283c0e488523f9ccc" title="WEvent::isAccepted проверить обработано ли событие " alt="" coords="419,157,559,184"/>
-</map>

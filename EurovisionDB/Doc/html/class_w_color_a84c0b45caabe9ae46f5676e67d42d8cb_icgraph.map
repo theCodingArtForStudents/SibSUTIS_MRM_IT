@@ -1,9 +1,0 @@
-<map id="WColor::toRgb" name="WColor::toRgb">
-<area shape="rect" id="node2" href="$class_w_color.html#a533c2cda9fa3189f24f01bed1fd11881" title="WColor::getRgb" alt="" coords="162,29,277,56"/>
-<area shape="rect" id="node3" href="$class_w_color.html#a5d787fd475df54a95a7c4f636e024f67" title="WColor::toHsv" alt="" coords="167,104,272,131"/>
-<area shape="rect" id="node5" href="$class_w_color.html#a81ccff7987322c973338dfb0ab0aa1e9" title="WColor::toHsl" alt="" coords="168,179,271,205"/>
-<area shape="rect" id="node7" href="$class_w_color.html#afe122276a55a857360e97ce93365ed2f" title="WColor::toCmyk" alt="" coords="160,253,279,280"/>
-<area shape="rect" id="node4" href="$class_w_color.html#ada768ec57dfa14c9bb79c779b0a4b777" title="WColor::getHsv" alt="" coords="333,104,445,131"/>
-<area shape="rect" id="node6" href="$class_w_color.html#ae1274a6950ae05c43b86312b1a987510" title="WColor::getHsl" alt="" coords="334,179,445,205"/>
-<area shape="rect" id="node8" href="$class_w_color.html#a11a5e586dc84933311e9b0a3251676bd" title="WColor::getCmyk" alt="" coords="327,253,452,280"/>
-</map>

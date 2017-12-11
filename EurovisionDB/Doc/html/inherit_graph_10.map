@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_w_event.html" title="WEvent Базовый класс для системы событий. описывающий информацию о событии, принято оно или нет..." alt="" coords="5,81,72,108"/>
-<area shape="rect" id="node2" href="$class_w_mouse_event.html" title="WMouseEvent Класс события с информацией о клике мыши. Так же содержит информацию о зажатии управляющи..." alt="" coords="120,5,227,32"/>
-<area shape="rect" id="node3" href="$class_w_move_event.html" title="WMoveEvent класс собтия перемещения " alt="" coords="125,56,222,83"/>
-<area shape="rect" id="node4" href="$class_w_paint_event.html" title="WPaintEvent" alt="" coords="125,107,222,133"/>
-<area shape="rect" id="node5" href="$class_w_resize_event.html" title="Класс WResizeEvent описывает событие изменения размера " alt="" coords="120,157,227,184"/>
-</map>

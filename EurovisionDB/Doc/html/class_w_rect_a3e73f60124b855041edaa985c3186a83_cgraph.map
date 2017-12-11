@@ -1,6 +1,0 @@
-<map id="WRect::moveLeft" name="WRect::moveLeft">
-<area shape="rect" id="node2" href="$class_w_rect.html#a507e18711f4d4b4bf99d77ab54a616b4" title="WRect::setLeft установить левую границу прямоугольника " alt="" coords="179,5,289,32"/>
-<area shape="rect" id="node3" href="$class_w_rect.html#a6bc0b5f7a6ceaea28df37b6e4e99f045" title="WRect::left получить левую границу прямоугольника " alt="" coords="191,56,277,83"/>
-<area shape="rect" id="node4" href="$class_w_rect.html#ae17534442607bbe0e3f8296e55229517" title="WRect::setRight установить правую границу прямоугольника " alt="" coords="175,107,293,133"/>
-<area shape="rect" id="node5" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="341,132,436,159"/>
-</map>

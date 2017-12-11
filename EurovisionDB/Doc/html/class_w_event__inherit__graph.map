@@ -1,6 +1,0 @@
-<map id="WEvent" name="WEvent">
-<area shape="rect" id="node2" href="$class_w_mouse_event.html" title="WMouseEvent Класс события с информацией о клике мыши. Так же содержит информацию о зажатии управляющи..." alt="" coords="5,219,132,399"/>
-<area shape="rect" id="node3" href="$class_w_move_event.html" title="WMoveEvent класс собтия перемещения " alt="" coords="157,233,274,384"/>
-<area shape="rect" id="node4" href="$class_w_paint_event.html" title="{WPaintEvent\n||+ WPaintEvent()\l+ rect()\l+ setRect()\l}" alt="" coords="298,255,415,362"/>
-<area shape="rect" id="node5" href="$class_w_resize_event.html" title="Класс WResizeEvent описывает событие изменения размера " alt="" coords="440,233,567,384"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="WPainter::device" name="WPainter::device">
-<area shape="rect" id="node2" href="$class_w_painter.html#a7db6f356fe04b830d4cef4a616899eb3" title="WPainter::setDevice установить устройство(контекст) рисования " alt="" coords="173,5,313,32"/>
-<area shape="rect" id="node4" href="$class_w_painter.html#a9d7215992b1e1ce0a4df042e3c146a7e" title="WPainter::WPainter инициализировать класс WPainter с устройством рисования " alt="" coords="174,56,313,83"/>
-<area shape="rect" id="node5" href="$class_w_painter.html#adb128f089d8361fed12c011d0b5b61e4" title="WPainter::begin начать рисование на установленном устройстве рисования " alt="" coords="186,107,301,133"/>
-<area shape="rect" id="node7" href="$class_w_painter.html#aa9be169e952620d8609f38953e73507d" title="WPainter::end закончить рисовать на установленном устройстве рисования " alt="" coords="191,157,296,184"/>
-<area shape="rect" id="node3" href="$class_w_painter.html#a268e754e5e6d573af0c5c61d27a8f870" title="WPainter::begin начать рисовать на переданном устройстве рисования " alt="" coords="385,81,499,108"/>
-<area shape="rect" id="node6" href="$class_test_window.html#a01794d113b3b5af0e7a0996fb25f29cf" title="TestWindow::paintEvent" alt="" coords="361,144,523,171"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="WAbstractItemModel::dataChanhed" name="WAbstractItemModel::dataChanhed">
-<area shape="rect" id="node2" href="$class_w_string_list_model.html#ac1345e39f91d83f09d86fe9483f0176f" title="WStringListModel::\l~WStringListModel" alt="" coords="234,5,367,47"/>
-<area shape="rect" id="node3" href="$class_w_string_list_model.html#aef9be1eb4569c85b4cbd90836d1a534b" title="WStringListModel::setStringList Установить список строк в модель " alt="" coords="197,122,404,149"/>
-<area shape="rect" id="node7" href="$class_w_string_list_model.html#a31440360b733eed1e01150574f2a3b3d" title="WStringListModel::setData установить данные в модель по указанному индексу " alt="" coords="211,71,390,98"/>
-<area shape="rect" id="node4" href="$class_test_window.html#a0b33c2ae68593a28027b727deaf36ec4" title="TestWindow::initUi" alt="" coords="477,71,607,98"/>
-<area shape="rect" id="node6" href="$class_w_string_list_model.html#a6b5cb3e24d22e00397b5f65ae743928d" title="WStringListModel::WStringListModel Конструктор с инициализацией базового класса модели и установкой д..." alt="" coords="452,123,632,164"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a24db1d5062183dbb26abf7552909e283" title="WinMain" alt="" coords="680,71,753,98"/>
-</map>

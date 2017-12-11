@@ -1,5 +1,0 @@
-<map id="WPainter::begin" name="WPainter::begin">
-<area shape="rect" id="node2" href="$class_w_painter.html#a7db6f356fe04b830d4cef4a616899eb3" title="WPainter::setDevice установить устройство(контекст) рисования " alt="" coords="168,5,308,32"/>
-<area shape="rect" id="node4" href="$class_w_painter.html#adb128f089d8361fed12c011d0b5b61e4" title="WPainter::begin начать рисование на установленном устройстве рисования " alt="" coords="181,56,295,83"/>
-<area shape="rect" id="node3" href="$class_w_painter.html#a28e9abf89a590835a83161f17b9e15a7" title="WPainter::device получить контекст рисования " alt="" coords="356,31,476,57"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="WListBox::mouseDoubleClickEvent" name="WListBox::mouseDoubleClickEvent">
-<area shape="rect" id="node2" href="$class_w_event.html#a5617342f80cadeb3df01840df098d484" title="WEvent::accept пометить что событие обработано. " alt="" coords="261,5,375,32"/>
-<area shape="rect" id="node3" href="$class_w_event.html#a93fea4265164a17283c0e488523f9ccc" title="WEvent::isAccepted проверить обработано ли событие " alt="" coords="248,56,388,83"/>
-</map>

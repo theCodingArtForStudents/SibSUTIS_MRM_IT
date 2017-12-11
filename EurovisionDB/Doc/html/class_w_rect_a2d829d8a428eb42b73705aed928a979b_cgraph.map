@@ -1,7 +1,0 @@
-<map id="WRect::setTopRight" name="WRect::setTopRight">
-<area shape="rect" id="node2" href="$class_w_rect.html#a9d7ad76ea850a878c60b423196067b6f" title="WRect::setTop установить верхнюю границу прямоугольника " alt="" coords="197,5,306,32"/>
-<area shape="rect" id="node3" href="$class_w_point.html#a6841f16c5fb8a9c744ad9b75c885c4cb" title="WPoint::y получить значение y координаты " alt="" coords="211,56,291,83"/>
-<area shape="rect" id="node4" href="$class_w_rect.html#ae17534442607bbe0e3f8296e55229517" title="WRect::setRight установить правую границу прямоугольника " alt="" coords="192,107,311,133"/>
-<area shape="rect" id="node6" href="$class_w_point.html#a57d334297cf16c0efe35ab1ccb31dfaf" title="WPoint::x получить значение x координаты " alt="" coords="211,157,291,184"/>
-<area shape="rect" id="node5" href="$class_w_rect.html#ab1949ebe7322e7db019198fe4f689469" title="WRect::right получить правую границу прямоугольника " alt="" coords="359,107,453,133"/>
-</map>

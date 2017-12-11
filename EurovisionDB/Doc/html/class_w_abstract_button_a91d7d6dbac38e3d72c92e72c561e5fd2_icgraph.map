@@ -1,5 +1,0 @@
-<map id="WAbstractButton::group" name="WAbstractButton::group">
-<area shape="rect" id="node2" href="$class_w_abstract_button.html#a22bc096e23fc922d7f856d85aebc6283" title="WAbstractButton::~WAbstractButton Виртуальный деструктор, с удалением кнопки из группы чтобы избежать..." alt="" coords="693,5,893,47"/>
-<area shape="rect" id="node3" href="$class_w_abstract_button.html#a1fd53bd8618b7da62427cdc528406fa0" title="WAbstractButton::setButton\lGroup" alt="" coords="216,36,403,77"/>
-<area shape="rect" id="node4" href="$class_w_button_group.html#af8eb35c20de792ded2ad889d4c3d495a" title="WButtonGroup::removeButton Удалить кнопку из группы " alt="" coords="451,39,645,66"/>
-</map>
