@@ -28,7 +28,9 @@
 *.out
 *.app
 
-[Dd]bug*
-[Rr]elease*
+*[Dd]bug*
+*[Rr]elease*
 
 *[Mm]ake*
+
+*/build-*
