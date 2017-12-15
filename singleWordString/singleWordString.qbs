@@ -4,6 +4,8 @@ Project {
     minimumQbsVersion: "1.7.1"
 
     CppApplication {
+        name: "singleWordString"
+        cpp.cxxFlags: "-std=c++11"
         consoleApplication: true
         files: "main.cpp"
 
