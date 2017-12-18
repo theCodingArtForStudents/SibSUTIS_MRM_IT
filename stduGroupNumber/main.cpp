@@ -7,19 +7,22 @@ int main()
   int groupNumber = 0;
   cout << "Pleas enter group number here: ";
   cin >> groupNumber;
+// младшая цифра номера не значит ни чего
+  groupNumber /= 10; // делим на 10 что бы убрать младшую цифру
+// средняя цифра номера означает год поступления в вуз
+  int year = groupNumber % 10; // если разделить число на 10 то остатком
+  // от деления будет как раз средняя цифра от введённого числа
+  groupNumber /= 10; // уираем еще цифру т.к дальше требуется старшая от введённого
 
-  groupNumber /= 10;
-
-  int year = groupNumber % 10;
-  groupNumber /= 10;
-
-  string faculty;
-  switch ( groupNumber % 10 )
-  {
+  string faculty;// строковая переменная для названия факультета
+  // оператор ветсвления с множетвом вариантов
+  switch ( groupNumber ) // в данной переменной осталась одна -- старшая цифра
+  { // выбераем факультет в зависимоти от цифры
+  // слуяай(case) с единичкой
   case 1:
     faculty = "history";
     break;
-  case 2:
+  case 2:// очередной случай
     faculty = "economy";
     break;
   case 3:
