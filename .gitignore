@@ -34,3 +34,5 @@
 *[Mm]ake*
 
 */build-*
+
+*.pro.user
