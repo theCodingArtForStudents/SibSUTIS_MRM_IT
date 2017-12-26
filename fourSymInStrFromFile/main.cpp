@@ -7,33 +7,35 @@ int main()
 {
   const char path[] = "./test.txt"; //путь файлу
 
-  ifstream fin(path);
+  ifstream fin(path);// создаем файловый поток по указанному пути
 
-  if( ! fin.is_open()){
-    cerr << " file is not found" << endl;
-    return 1;
+  if( ! fin.is_open()){// если файл не открыт
+    cerr << " file is not found" << endl;// вероятно его не удалось найти
+    return 1; // возвращаем код ошибки
   }
 
-  char ch[255];
-  size_t countWords = 0;
-  char **words;
+  char buffer[255]; // буфер доля временного хранения слов
+  size_t countWords = 0; // счетчик слов
+  char **words; // динамический массив слов
+  int countFourSymWords = 0; //  количество слов из не более 4 букв
+  while ( fin ) { // движемся по стриму пока он не заканчится
 
-  while ( fin ) {
+    fin >> buffer; // извслекаем очередное словао из потока в переменную
 
-    fin >> ch;
+    countWords++; // увеличиваем количество найденных слов
+    words = new char* [countWords-1]; // выделяем память под указатель на новое слово
 
-    countWords++;
-    words = new char* [countWords-1];
-
-    int symCount = 0;
-    while ( ch[symCount] != '\0') {
-      symCount++;
+    int symCount = 0;// счетчик символов
+    while ( buffer[symCount] != '\0') { // подсчет символов в слове пока не встретим нуль-символ( символ нулевой байт, иначе)
+      symCount++; // инкрементиркем счетчик символов
     }
 
-    words[countWords-1] = new char [symCount];
-    words[countWords-1] = ch;
-    if( symCount == 4){
-      cout << "word[" << countWords-1 << "] " << words[countWords-1] << endl;
+    words[countWords-1] = new char [symCount];// выделяем память длинной в очередное слово
+    words[countWords-1] = buffer; // записываем словав массив
+
+    if( symCount <= 4){ // если слово состаит из четырех букв
+      countFourSymWords++; // увеличиваем счетчик
+      cout << "FOUR SYMBOLS word[" << countFourSymWords << "] " << words[countWords-1] << endl;// выводим это слово
     }
   }
 
