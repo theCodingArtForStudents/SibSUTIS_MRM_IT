@@ -62,7 +62,7 @@ int main()
   for (int j = 0; j < N; ++j) {
 
     bool f = false; //
-    int min = j; //минимальный номер
+    int min = j; //номер минимального элемента
 
     for (int i = j; i < N - j; ++i) {
 
