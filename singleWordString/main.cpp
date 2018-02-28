@@ -52,5 +52,12 @@ int main()
   }
   cout << "]" << endl; // конец вывода
 
+  for(size_t i = 0; i < wordsCount; ++i){
+    if(strlen(words[i]) > 0){
+      delete [] words[i];
+    }
+  }
+  delete [] words;
+
   return 0;
 }
