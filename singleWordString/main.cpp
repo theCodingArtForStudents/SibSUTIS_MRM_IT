@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string.h>
+#include <cstring>
 
 using namespace std;
 
@@ -13,7 +13,7 @@ int main()
                  "laboris nisi ut aliquip ex ea commodo consequat. "
                  "laboris nisi ut aliquip ex ea commodo consequat. ";
 
-  int wordsCount = 0;
+  size_t wordsCount = 0;
   int i = 0;
   while ( input[i] != '\0') {
     if( input[i] == ' '){
@@ -23,53 +23,24 @@ int main()
   }
 
   char** words = new char* [wordsCount];
+  char *lexema = strtok(input, ", .-");
 
-  int handleLeft = 0;
-  for (int i = 0; i < wordsCount; ++i) {
+  for (size_t i = 0; i < wordsCount; ++i) {
+    size_t symbolsCount = strlen(lexema);
 
-    int symbolsCount = 0;
-    while ( input[handleLeft] != ' ') {
+    words[i] = new char [symbolsCount];
+    words[i] = lexema;
 
-      if( input[handleLeft] != ' '
-          && input[handleLeft] != '.'
-          && input[handleLeft] != ','){
-
-        symbolsCount++;
-      }
-
-      handleLeft++;
-    }
-
-//    cout << "symbolsCount " << symbolsCount << " input << endl;
-    handleLeft++;
-
-
-    words[i] = new char [symbolsCount+1];
-
-    int handleRight = handleLeft-1;
-
-    words[i][symbolsCount] = '\0';
-    while (handleRight >= 0
-           || input[handleRight] != ' ') {
-
-      if(input[handleRight] != '.'
-         && input[handleRight] != ' '
-         && input[handleRight] != ','
-         && symbolsCount >= 0){
-
-        symbolsCount--;
-        words[i][symbolsCount] = input[handleRight];
-
-      }
-
-      handleRight--;
-    }
+    lexema = strtok(NULL, ", .-");
   }
 
+//  cout << words[0] << endl;
+
+
   int *substrCount = new int [wordsCount];
-  for (int i = 0; i < wordsCount; ++i) {
+  for (size_t i = 0; i < wordsCount; ++i) {
     substrCount[i] = 0;
-    for (int j = 0; j < wordsCount; ++j) {
+    for (size_t j = 0; j < wordsCount; ++j) {
       if( strcmp(words[i], words[j]) == 0 ){
         substrCount[i]++;
       }
@@ -78,7 +49,7 @@ int main()
   }
 
   cout << "Alone in the darkness: [" << endl;
-  for (int i = 0; i < wordsCount; ++i) {
+  for (size_t i = 0; i < wordsCount; ++i) {
     if(substrCount[i] == 1){
       cout << i << "\t\"" << words[i] << "\"," << endl;
     }
