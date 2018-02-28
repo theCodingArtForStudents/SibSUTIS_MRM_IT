@@ -52,12 +52,12 @@ int main()
   }
   cout << "]" << endl; // конец вывода
 
-  for(size_t i = 0; i < wordsCount; ++i){
-    if(strlen(words[i]) > 0){
-      delete [] words[i];
+  for(size_t i = 0; i < wordsCount; ++i){ // цикл для чистки памяти
+    if(strlen(words[i]) > 0){ // если слово длиннее нуля символов
+      delete [] words[i]; // уничтожаем массив символов
     }
   }
-  delete [] words;
+  delete [] words; // уничтожаем массив укащателей
 
   return 0;
 }
